@@ -65,7 +65,7 @@ task('index', ['css'], () => {
   return src('layouts/index.jade')
     .pipe(jade({
       locals: {
-        title: `Сайт @${underhood.underhood}`,
+        title: `@${underhood.underhood} Home`,
         desc: underhood.underhoodDesc,
         underhood,
         currentAuthor: head(authors),
@@ -81,7 +81,7 @@ task('stats', ['css'], () =>
   src('layouts/stats.jade')
     .pipe(jade({
       locals: {
-        title: `Статистика @${underhood.underhood}`,
+        title: `Stats @${underhood.underhood}`,
         url: 'stats/',
         desc: underhood.underhoodDesc,
         lastUpdated,
@@ -96,12 +96,12 @@ task('stats', ['css'], () =>
 
 task('md-pages', ['css'], done => {
   each([
-    { name: 'about', title: 'О проекте' },
-    { name: 'authoring', title: 'Авторам' },
-    { name: 'instruction', title: 'Инструкция' },
+    { name: 'about', title: 'About Project' },
+    { name: 'authoring', title: 'Authors FAQ' },
+    { name: 'instructions', title: 'Instructions' },
   ], item => {
     const page = fs.readFileSync(`./pages/${item.name}.md`, { encoding: 'utf8' });
-    const article = articleData(page, 'D MMMM YYYY', 'en'); // TODO change to 'ru' after moment/moment#2634 will be published
+    const article = articleData(page, 'D MMMM YYYY', 'en');
     return src('layouts/article.jade')
       .pipe(jade({
         locals: merge(article, {

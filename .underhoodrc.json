@@ -1,5 +1,5 @@
 {
-  "underhood": "localsource.nl",
+  "underhood": "LocalSourceNL",
   "underhoodDesc": "Shared twitter account with a new author each week for NL based developers and IT community activists.",
   "underhoodSite": "localsource.nl",
   "githubUser": "react-amsterdam",
@@ -7,13 +7,12 @@
   "curatorEmail": "r@rhr.me",
   "curatorTwitter": "operatino",
   "creatorTwitter": "iamstarkov",
-  "gauges": "56742cb6c88d9046da0016f5",
+  "gauges": "57b09811bb922a74a2006361",
   "googleAnalytics": "UA-66924051-3",
-  "yandexMetric": "",
   "creatorCreds": "iamstarkov@gmail.com (Vladimir Starkov)",
   "underhoodVersion": "0.1.2",
   "site": {
-    "title": "@localsourcenl home",
+    "title": "@LocalSourceNL Home",
     "description": "Shared twitter account with a new author each week for NL based developers and IT community activists.",
     "feed_url": "https://localsource.nl/rss.xml",
     "site_url": "https://localsource.nl/",

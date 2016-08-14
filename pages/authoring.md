@@ -1,69 +1,30 @@
 # Becoming an Author
 
-TODO 
+To become LocalSourceNL author, all you need is just to [send an email][proposal] to current moderator, and we'll book a week for you.
 
+## What's in it for you?
+* Have an audience to freely discuss various topics and new ideas in an open format
+* Learn new insights from the community
+* Enable your current followers to freely discuss any topics with you publicly and get to know you * better
+* Get new subscribers to your main account
+* It's fun
 
-## Что я получу, как автор?
+## Popular topics for discussion
+* Interesting companies and projects in development around Netherlands
+* Developer carrier insights (growth, interviews, tips, and tricks)
+* Expert opinion about various popular technologies and approaches
+* Discussions about the open source community
+* The future of software development
+* Personal stories about the career, success stories
+* All things hot right now - React, Angular 2, Node etc
 
-* Новые подписчики из вашей целевой аудитории
-* Испытание идей: отклик от множества читателей
-* Вы также сможете проверить ваш опыт и получить совет от кого-то более опытного
-* Новые люди и захватывающие идеи
-* Интересный и совершенно новый опыт
-* Меньше ограничений — это не ваш личный твиттер!
-* Вы получите технические и общие вопросы, которые люди могут стесняться
-  спросить в вашем твиттере
-* Это почётно и это состязание среди авторов
-* Это весело
+## Rules
 
-## Следует ли мне подготовить план для моей недели?
+It's highly encouraged to be respectful to all the readers and behave appropriately, during the authorship week - you're a public person, as on any conference/meetup stage. Racism, sexism or any other form of personal assault is strictly forbidden.
 
-— Tl;DR: следует. Опыт подсказывает, что лучше иметь план, чем нет.
-На самом деле вам не нужен план, как таковой — подойдёт список тем,
-которые вы хотите обсудить. Планирование сильно и положительно влияет
-как на читателей, так и на авторов.
+If you'll notice that some of the current authors behaves appropriately, please [contact the moderator][coc-violations].
 
-## Буду ли я раздражен необходимостью отвечать на вопросы?
+[Instructions for authors](/instructions).
 
-— Иногда, конечно. Но общение — самая важная и интересная часть идеи @operatino.
-Также можно заметить, что отвечать проще, чем писать оригинальные твиты.
-Само собой не нужно кормить троллей.
-
-## Какие есть популярные темы для обсуждения с читателями?
-
-— Возможно ты можешь попробовать обсудить что-нибудь из этого списка:
-
-* Способы оценки разработчиков (github, stackoverflow и т.д.)
-* Оценка и ревью сайтов
-* Собеседования
-* Отношение к опенсорсу
-* Разработчики, вдохновляющие или значимые (коллеги, менторы, блогеры)
-* Ваши проекты
-* Будущее фронтенда в течение 5 лет
-* Ваше рабочее место и/или другие относящиеся к здоровью темы
-* Ваше рабочее окружение: оборудование, программы, .dotfiles и т.д.
-* Самые интересные технические проблемы, которые вам встречались
-* Как вы пришли в IT
-* Ваша карьерный путь и текущая позиция
-* Ваши профессиональные и общие планы на будущее
-* Самые важные для вас ценности и почему
-* Ваш любимый рабочий опыт
-* Баланс работы и личной жизни
-* Высшее образование, самообучение и онлайн-образование
-* Ваш вклад и ответственность, как веб-разработчика, в общую картину мира
-
-## Как стать автором?
-
-— [Напишите письмо][proposal] если хотите вести твиттер или если хотите предложить кого-то на место автора.
-
-## Этикет
-
-Пожалуйста будьте вежливыми и уважайте ваших читателей. Не следует оскорблять
-или унижать кого-то. Ведите себя профессионально. Уничижительные, сексистские,
-расистские или ксенофобские шутки не привествуются в [@operatino][uh].
-
-Если вы заметили нарушение, как можно скорее [напишите письмо][coc-violations].
-
-[uh]: https://twitter.com/operatino
-[proposal]: mailto:r@rhr.me?subject=Author’s%20proposal%20for%20@localsourcenl
-[coc-violations]: mailto:r@rhr.me?subject=CoC%20violations%20in%20@localsourcenl
+[proposal]: mailto:r@rhr.me?subject=Author’s%20proposal%20for%20@LocalSourceNL
+[coc-violations]: mailto:r@rhr.me?subject=CoC%20violations%20in%20@LocalSourceNL
