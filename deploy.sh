@@ -2,8 +2,7 @@
 set -e
 
 echo "set git environment"
-git config user.email "iamstarkov+tachikombie@gmail.com"
-git config user.name "Tachikoma Zombie"
+git config user.name "LocalSourceNL bot"
 git remote rm origin
 git remote add origin https://react-amsterdam:${GITHUB_TOKEN}@github.com/react-amsterdam/localsourcenl.git
 git checkout master
