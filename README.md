@@ -4,9 +4,9 @@ Shared twitter account with a new author each week for NL based developers and I
 
 ## Starting the project
 
+Clone the repo, run:
+
 ```
-git clone git@github.com:iamstarkov/jsunderhood.git
-cd jsunderhood
 npm install
 npm start
 ```

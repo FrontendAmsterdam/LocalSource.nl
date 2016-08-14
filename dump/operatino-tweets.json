@@ -1,28 +1,44 @@
 {
   "tweets": [
     {
-      "created_at": "Mon Nov 23 08:05:03 +0000 2015",
-      "id": 668701781757685800,
-      "id_str": "668701781757685760",
-      "text": "Всем привет! Следующие 7 дней с вами на связи Роберт Харитонов @operatino. Руковожу командой разработки, последний год живу в Амстердаме.",
-      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "created_at": "Mon Aug 08 13:21:51 +0000 2016",
+      "id": 762639967130644500,
+      "id_str": "762639967130644480",
+      "text": "Authors schedule is filling up well, we already have enough authors for the next two months! Starting mid-August, stay tuned!",
       "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
       "in_reply_to_status_id": null,
       "in_reply_to_status_id_str": null,
       "in_reply_to_user_id": null,
       "in_reply_to_user_id_str": null,
       "in_reply_to_screen_name": null,
       "user": {
-        "id": 3014054307,
-        "id_str": "3014054307"
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
       },
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 2,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Aug 11 14:56:20 +0000 2016",
+      "id": 763750906173263900,
+      "id_str": "763750906173263872",
+      "text": "RT @operatino: AmsterdamJS is coming back! New season starts September 8th at @PlanetBooking HQ.\n\nFollow @AmsterdamJS for details.\n\nhttps:/…",
+      "truncated": false,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -33,16 +49,129 @@
             "id": 89017350,
             "id_str": "89017350",
             "indices": [
-              63,
-              73
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "PlanetBooking",
+            "name": "Planet Booking",
+            "id": 107373839,
+            "id_str": "107373839",
+            "indices": [
+              78,
+              92
+            ]
+          },
+          {
+            "screen_name": "amsterdamjs",
+            "name": "Amsterdam Javascript",
+            "id": 145599406,
+            "id_str": "145599406",
+            "indices": [
+              105,
+              117
             ]
           }
         ],
-        "urls": []
+        "urls": [
+          {
+            "url": "https://t.co/laNOgTCYJu",
+            "expanded_url": "https://www.meetup.com/AmsterdamJS/events/233107619/",
+            "display_url": "meetup.com/AmsterdamJS/ev…",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ]
       },
-      "favorited": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Aug 11 14:55:45 +0000 2016",
+        "id": 763750757573226500,
+        "id_str": "763750757573226496",
+        "text": "AmsterdamJS is coming back! New season starts September 8th at @PlanetBooking HQ.\n\nFollow @AmsterdamJS for details.\n\nhttps://t.co/laNOgTCYJu",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "PlanetBooking",
+              "name": "Planet Booking",
+              "id": 107373839,
+              "id_str": "107373839",
+              "indices": [
+                63,
+                77
+              ]
+            },
+            {
+              "screen_name": "amsterdamjs",
+              "name": "Amsterdam Javascript",
+              "id": 145599406,
+              "id_str": "145599406",
+              "indices": [
+                90,
+                102
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/laNOgTCYJu",
+              "expanded_url": "https://www.meetup.com/AmsterdamJS/events/233107619/",
+              "display_url": "meetup.com/AmsterdamJS/ev…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 89017350,
+          "id_str": "89017350"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 6,
+        "favorited": true,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 0,
+      "favorited": true,
       "retweeted": false,
-      "lang": "ru"
+      "possibly_sensitive": false,
+      "lang": "en"
     }
   ]
 }
