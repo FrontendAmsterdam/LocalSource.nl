@@ -8,7 +8,7 @@ git remote add origin https://react-amsterdam:${GITHUB_TOKEN}@github.com/react-a
 git checkout master
 
 echo "run update"
-babel-node update
+babel-node update 
 
 echo "save dump"
 git add --all dump
