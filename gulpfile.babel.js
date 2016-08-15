@@ -43,7 +43,7 @@ const jadeDefaults = {
   locals: {
     site: underhood.site,
     latestInfo,
-    numbers: input => numbers(input, { locale: 'ru' }),
+    numbers: input => numbers(input, { locale: 'en' }),
     people: numd('человек', 'человека', 'человек'),
   },
 };
@@ -124,7 +124,7 @@ task('rss', done => {
     feed.item({
       title: author.username,
       description: render(firstTweet(author)),
-      url: `https://jsunderhood.ru/${author.username}/`,
+      url: `http://localsource.nl/${author.username}/`,
       date: firstTweet(author).created_at,
     });
   });
