@@ -390,6 +390,153 @@
       "favorited": false,
       "retweeted": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 07:26:19 +0000 2016",
+      "id": 765087206813958100,
+      "id_str": "765087206813958144",
+      "text": "RT @operatino: Started a new community project - shared Twitter acc. for NL based devs. Please follow and RT to get local insights! https:/…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Q9BTHAaIXx",
+            "expanded_url": "https://twitter.com/localsourcenl/status/765082320143544320",
+            "display_url": "twitter.com/localsourcenl/…",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 15 07:23:11 +0000 2016",
+        "id": 765086416913170400,
+        "id_str": "765086416913170433",
+        "text": "Started a new community project - shared Twitter acc. for NL based devs. Please follow and RT to get local insights! https://t.co/Q9BTHAaIXx",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/Q9BTHAaIXx",
+              "expanded_url": "https://twitter.com/localsourcenl/status/765082320143544320",
+              "display_url": "twitter.com/localsourcenl/…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 89017350,
+          "id_str": "89017350"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 765082320143544300,
+        "quoted_status_id_str": "765082320143544320",
+        "quoted_status": {
+          "created_at": "Mon Aug 15 07:06:54 +0000 2016",
+          "id": 765082320143544300,
+          "id_str": "765082320143544320",
+          "text": "Morning everyone! I'm Robert @operatino, and I'll be your host for this week's shared Twitter account for NL based developers and IT people.",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "operatino",
+                "name": "Robert Haritonov",
+                "id": 89017350,
+                "id_str": "89017350",
+                "indices": [
+                  29,
+                  39
+                ]
+              }
+            ],
+            "urls": []
+          },
+          "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 745222684804583400,
+            "id_str": "745222684804583424"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "favorited": false,
+          "retweeted": false,
+          "lang": "en"
+        },
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "quoted_status_id": 765082320143544300,
+      "quoted_status_id_str": "765082320143544320",
+      "retweet_count": 5,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
     }
   ]
 }
