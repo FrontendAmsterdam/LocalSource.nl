@@ -172,6 +172,224 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 07:06:54 +0000 2016",
+      "id": 765082320143544300,
+      "id_str": "765082320143544320",
+      "text": "Morning everyone! I'm Robert @operatino, and I'll be your host for this week's shared Twitter account for NL based developers and IT people.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              29,
+              39
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 07:08:39 +0000 2016",
+      "id": 765082762030248000,
+      "id_str": "765082762030247936",
+      "text": "I live and work in Amsterdam area, to where I've relocated about 2 years ago from Riga (Latvia). Currently do my Tech Lead job at LGI.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765082320143544300,
+      "in_reply_to_status_id_str": "765082320143544320",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 07:10:28 +0000 2016",
+      "id": 765083219444236300,
+      "id_str": "765083219444236290",
+      "text": "LGI stands for Liberty Global, which is the biggest telecommunication company in Europe owning brands like Ziggo, Virgin Media and others.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765082762030248000,
+      "in_reply_to_status_id_str": "765082762030247936",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 07:12:03 +0000 2016",
+      "id": 765083618691670000,
+      "id_str": "765083618691670016",
+      "text": "Outside job ours I do some open source for @SourceJS style guide platform and organize @ReactAmsterdam and @AmsterdamJS meetups and confs.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SourceJS",
+            "name": "Source",
+            "id": 1383798391,
+            "id_str": "1383798391",
+            "indices": [
+              43,
+              52
+            ]
+          },
+          {
+            "screen_name": "ReactAmsterdam",
+            "name": "React.Amsterdam",
+            "id": 3023155108,
+            "id_str": "3023155108",
+            "indices": [
+              87,
+              102
+            ]
+          },
+          {
+            "screen_name": "amsterdamjs",
+            "name": "Amsterdam Javascript",
+            "id": 145599406,
+            "id_str": "145599406",
+            "indices": [
+              107,
+              119
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765083219444236300,
+      "in_reply_to_status_id_str": "765083219444236290",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 07:15:22 +0000 2016",
+      "id": 765084449683931100,
+      "id_str": "765084449683931137",
+      "text": "I'm also the one moderating this shared Twitter account for local developers, after getting the inspiration from idea origin - @jsunderhood.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              127,
+              139
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765083618691670000,
+      "in_reply_to_status_id_str": "765083618691670016",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }

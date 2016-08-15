@@ -886,6 +886,50 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 07:06:54 +0000 2016",
+      "id": 765082320143544300,
+      "id_str": "765082320143544320",
+      "text": "Morning everyone! I'm Robert @operatino, and I'll be your host for this week's shared Twitter account for NL based developers and IT people.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              29,
+              39
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }
