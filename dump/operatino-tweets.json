@@ -537,6 +537,4947 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 08:44:39 +0000 2016",
+      "id": 765106920311119900,
+      "id_str": "765106920311119872",
+      "text": "This week’s schedule:\n1. Local communities\n2. Open source\n3. Frameworks\n4. Drone day\n5. Freestyle\n6. Component libraries\n7. Front-end future",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 08:45:46 +0000 2016",
+      "id": 765107200197070800,
+      "id_str": "765107200197070848",
+      "text": "Meaning that today we’ll be talking about local communities, meetups, projects and other things related.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765106920311119900,
+      "in_reply_to_status_id_str": "765106920311119872",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 08:47:12 +0000 2016",
+      "id": 765107562601705500,
+      "id_str": "765107562601705472",
+      "text": "Let’s start with the freshest project, the @LocalSourceNL shared Twitter account itself. As mentioned before, idea came from ru community.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              43,
+              57
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 08:54:27 +0000 2016",
+      "id": 765109384762552300,
+      "id_str": "765109384762552320",
+      "text": "It’s all started rom two great guys - @iamstarkov and @shuvalov_anton. Today, there’s already 12 similar projects https://t.co/yA4nV9NMK7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iamstarkov",
+            "name": "Vladimir Starkov",
+            "id": 98084311,
+            "id_str": "98084311",
+            "indices": [
+              38,
+              49
+            ]
+          },
+          {
+            "screen_name": "shuvalov_anton",
+            "name": "Darth Shuvalov",
+            "id": 214580679,
+            "id_str": "214580679",
+            "indices": [
+              54,
+              69
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yA4nV9NMK7",
+            "expanded_url": "https://github.com/iamstarkov/awesome-collective-twitters",
+            "display_url": "github.com/iamstarkov/awe…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765107562601705500,
+      "in_reply_to_status_id_str": "765107562601705472",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 08:56:52 +0000 2016",
+      "id": 765109996023603200,
+      "id_str": "765109996023603200",
+      "text": "The most popular tech shared account is @jsunderhood. It’s primarily about JavaScript + a bit of Front-end’y things around.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              40,
+              52
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765109384762552300,
+      "in_reply_to_status_id_str": "765109384762552320",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 08:58:28 +0000 2016",
+      "id": 765110396298596400,
+      "id_str": "765110396298596353",
+      "text": "Then there’s also a @cssunderhood, as you may guess from the name, it’s about CSS, HTML and Front-end standards.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cssunderhood",
+            "name": "Верстальщик",
+            "id": 3376999971,
+            "id_str": "3376999971",
+            "indices": [
+              20,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765109996023603200,
+      "in_reply_to_status_id_str": "765109996023603200",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 09:00:28 +0000 2016",
+      "id": 765110900273676300,
+      "id_str": "765110900273676288",
+      "text": "Although the biggest reach with shared accounts is in FE community, we won’t limit ourselves in @LocalSourceNL, making it open for everybody",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              96,
+              110
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765110396298596400,
+      "in_reply_to_status_id_str": "765110396298596353",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 09:04:00 +0000 2016",
+      "id": 765111789583564800,
+      "id_str": "765111789583564800",
+      "text": "I’ve been an author at @jsunderhood before where I’ve really enjoyed the conversation format, which eventually led to this account creation.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jsunderhood",
+            "name": "Разработчик",
+            "id": 3014054307,
+            "id_str": "3014054307",
+            "indices": [
+              23,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765110900273676300,
+      "in_reply_to_status_id_str": "765110900273676288",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 09:06:15 +0000 2016",
+      "id": 765112357714587600,
+      "id_str": "765112357714587648",
+      "text": "Our main goal with this project - is to make local community closer and get to know each other peers better. \n\nhttps://t.co/HpnQXdVN8n",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HpnQXdVN8n",
+            "expanded_url": "http://localsource.nl/about",
+            "display_url": "localsource.nl/about",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765111789583564800,
+      "in_reply_to_status_id_str": "765111789583564800",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 09:09:09 +0000 2016",
+      "id": 765113084998455300,
+      "id_str": "765113084998455296",
+      "text": "We have lot’s of meetups and other tech events happening in NL, but people don’t know much of other devs outside their companies.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765112357714587600,
+      "in_reply_to_status_id_str": "765112357714587648",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 09:10:17 +0000 2016",
+      "id": 765113373314977800,
+      "id_str": "765113373314977792",
+      "text": "This shared account is here to change that, exposing greatest tech talents w/ interesting projects and insights to the rest of the community",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765113084998455300,
+      "in_reply_to_status_id_str": "765113084998455296",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 09:12:16 +0000 2016",
+      "id": 765113868398067700,
+      "id_str": "765113868398067714",
+      "text": "I was (and still am) unsure about how locals will accept the format of weekly authorship, but meanwhile I’ve got lot’s of positive responses",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765113373314977800,
+      "in_reply_to_status_id_str": "765113373314977792",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 09:13:09 +0000 2016",
+      "id": 765114091543420900,
+      "id_str": "765114091543420928",
+      "text": "Currently we have enough authors for ~ next two months. So starting from today, we plan to keep it active at least till the end of the year.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765113868398067700,
+      "in_reply_to_status_id_str": "765113868398067714",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 09:15:49 +0000 2016",
+      "id": 765114764754292700,
+      "id_str": "765114764754292736",
+      "text": "Here’s few names you’ll see here during next weeks:\n@ramonvictor, @ndelegan, @NorbertdeLangen, @stefanomasini, @kureevalexey, @_paulverbeek",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ramonvictor",
+            "name": "ramonvictor",
+            "id": 17886319,
+            "id_str": "17886319",
+            "indices": [
+              52,
+              64
+            ]
+          },
+          {
+            "screen_name": "ndelegan",
+            "name": "Николай",
+            "id": 1243621003,
+            "id_str": "1243621003",
+            "indices": [
+              66,
+              75
+            ]
+          },
+          {
+            "screen_name": "NorbertdeLangen",
+            "name": "Norbert de Langen",
+            "id": 369418577,
+            "id_str": "369418577",
+            "indices": [
+              77,
+              93
+            ]
+          },
+          {
+            "screen_name": "stefanomasini",
+            "name": "stefanomasini",
+            "id": 14652647,
+            "id_str": "14652647",
+            "indices": [
+              95,
+              109
+            ]
+          },
+          {
+            "screen_name": "kureevalexey",
+            "name": "Alexey Kureev",
+            "id": 860273317,
+            "id_str": "860273317",
+            "indices": [
+              111,
+              124
+            ]
+          },
+          {
+            "screen_name": "_paulverbeek",
+            "name": "Paul Verbeek",
+            "id": 171404792,
+            "id_str": "171404792",
+            "indices": [
+              126,
+              139
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765114091543420900,
+      "in_reply_to_status_id_str": "765114091543420928",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 09:17:32 +0000 2016",
+      "id": 765115194997674000,
+      "id_str": "765115194997673984",
+      "text": "… and a few more (fighting twi limits): \n@mweststrate, @GHengeveld.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mweststrate",
+            "name": "Michel Weststrate",
+            "id": 37636440,
+            "id_str": "37636440",
+            "indices": [
+              41,
+              53
+            ]
+          },
+          {
+            "screen_name": "GHengeveld",
+            "name": "Gert Hengeveld",
+            "id": 20709019,
+            "id_str": "20709019",
+            "indices": [
+              55,
+              66
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765114764754292700,
+      "in_reply_to_status_id_str": "765114764754292736",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 09:20:01 +0000 2016",
+      "id": 765115820917788700,
+      "id_str": "765115820917788672",
+      "text": "If you’re excited as we are, drop a note at r@rhr.me to become an author.\n\nAnd don’t forget to share this account with your friends!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765115194997674000,
+      "in_reply_to_status_id_str": "765115194997673984",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:07:56 +0000 2016",
+      "id": 765127879512485900,
+      "id_str": "765127879512485889",
+      "text": "@iamstarkov It's there already, or you mean some specific format?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iamstarkov",
+            "name": "Vladimir Starkov",
+            "id": 98084311,
+            "id_str": "98084311",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 765127549001297900,
+      "in_reply_to_status_id_str": "765127549001297920",
+      "in_reply_to_user_id": 98084311,
+      "in_reply_to_user_id_str": "98084311",
+      "in_reply_to_screen_name": "iamstarkov",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:39:35 +0000 2016",
+      "id": 765135845078790100,
+      "id_str": "765135845078790145",
+      "text": "We’re slowly getting attention, and already got first 65 followers, huge thanks for that! Please continue sharing the info.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:40:54 +0000 2016",
+      "id": 765136175954858000,
+      "id_str": "765136175954857984",
+      "text": "For those who interacts with shared accounts first time - don’t be shy asking questions and reach for opinions to start the conversation.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:42:20 +0000 2016",
+      "id": 765136534907551700,
+      "id_str": "765136534907551744",
+      "text": "We have a really open format here, with public discussions and long threads, comparing how you would author own Twitter micro-blog.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765136175954858000,
+      "in_reply_to_status_id_str": "765136175954857984",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:43:03 +0000 2016",
+      "id": 765136715208155100,
+      "id_str": "765136715208155136",
+      "text": "Since we’re talking today about communities - let’s cover the meetups topic.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:43:50 +0000 2016",
+      "id": 765136915930775600,
+      "id_str": "765136915930775554",
+      "text": "A living local community was one of the main motivations for my relocation from Riga, where we had almost none of them.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765136715208155100,
+      "in_reply_to_status_id_str": "765136715208155136",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:44:37 +0000 2016",
+      "id": 765137111758536700,
+      "id_str": "765137111758536704",
+      "text": "Comparing to my home town, which had one small JS group, in Amsterdam we have tens of meetup groups on JS, frameworks and ecosystems.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765136915930775600,
+      "in_reply_to_status_id_str": "765136915930775554",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:45:10 +0000 2016",
+      "id": 765137250095104000,
+      "id_str": "765137250095104000",
+      "text": "It’s really great to have a special place where you can gather with your colleagues and talk on specific topic like React, Angular, Ember.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765137111758536700,
+      "in_reply_to_status_id_str": "765137111758536704",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:46:00 +0000 2016",
+      "id": 765137459835527200,
+      "id_str": "765137459835527168",
+      "text": "Each of big framework has it’s own meetup group around + of course combined groups about all things JS, CSS, PHP, DevOps, startups and etc.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765137250095104000,
+      "in_reply_to_status_id_str": "765137250095104000",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:46:51 +0000 2016",
+      "id": 765137672851558400,
+      "id_str": "765137672851558400",
+      "text": "One thing I’m missing though, is that people don’t continue their conversations after the meetup events themselves.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765137459835527200,
+      "in_reply_to_status_id_str": "765137459835527168",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:47:50 +0000 2016",
+      "id": 765137920554573800,
+      "id_str": "765137920554573824",
+      "text": "I’ve get used to hang out with peers after the conferences or meetups, as we did it in Russian speaking community.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765137672851558400,
+      "in_reply_to_status_id_str": "765137672851558400",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:48:41 +0000 2016",
+      "id": 765138134908694500,
+      "id_str": "765138134908694529",
+      "text": "It doesn’t necessarily mean going for beers together, mostly about continuing interaction all the time, rather just 2-3 hours a month.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765137920554573800,
+      "in_reply_to_status_id_str": "765137920554573824",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:49:33 +0000 2016",
+      "id": 765138351502524400,
+      "id_str": "765138351502524416",
+      "text": "I see bunch of other communities having common slack/telegram chats, where people continue their discussion on topics from events.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765138134908694500,
+      "in_reply_to_status_id_str": "765138134908694529",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:50:38 +0000 2016",
+      "id": 765138626850193400,
+      "id_str": "765138626850193408",
+      "text": "Would be really great to have same sort of interaction between local devs here. That’s also what pushed me to help organizing events myself.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765138351502524400,
+      "in_reply_to_status_id_str": "765138351502524416",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:52:27 +0000 2016",
+      "id": 765139081030406100,
+      "id_str": "765139081030406144",
+      "text": "As mentioned above, I’m currently helping organizing @ReactAmsterdam meetups and annual full day conference + recently revived @AmsterdamJS",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ReactAmsterdam",
+            "name": "React.Amsterdam",
+            "id": 3023155108,
+            "id_str": "3023155108",
+            "indices": [
+              53,
+              68
+            ]
+          },
+          {
+            "screen_name": "amsterdamjs",
+            "name": "Amsterdam Javascript",
+            "id": 145599406,
+            "id_str": "145599406",
+            "indices": [
+              127,
+              139
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765138626850193400,
+      "in_reply_to_status_id_str": "765138626850193408",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:53:27 +0000 2016",
+      "id": 765139332529320000,
+      "id_str": "765139332529319938",
+      "text": "And with those communities, I have now some possibilities to affect how we evolve our deeper socialization integration.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765139081030406100,
+      "in_reply_to_status_id_str": "765139081030406144",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:54:33 +0000 2016",
+      "id": 765139612415168500,
+      "id_str": "765139612415168512",
+      "text": "Starting small - we try organizing the meetup schedule the way people have time to communicate with speakers after the talks.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765139332529320000,
+      "in_reply_to_status_id_str": "765139332529319938",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 10:55:18 +0000 2016",
+      "id": 765139801305714700,
+      "id_str": "765139801305714688",
+      "text": "We’ve also tried to make a slack chat, but it didn’t worked out yet. I believe we’ll try doing it again later on, at lease within our groups",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765139612415168500,
+      "in_reply_to_status_id_str": "765139612415168512",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 11:50:00 +0000 2016",
+      "id": 765153566839468000,
+      "id_str": "765153566839468036",
+      "text": "Most of the local meetups are purely based in Amsterdam, where’s the biggest tech scene in NL. But there are quite a few traveling groups.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 11:51:13 +0000 2016",
+      "id": 765153869747847200,
+      "id_str": "765153869747847168",
+      "text": "I like how @nlhtml5 is organizing it’s events, traveling from city to city but keeping English as the main language.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nlhtml5",
+            "name": "NLHTML5",
+            "id": 2827587572,
+            "id_str": "2827587572",
+            "indices": [
+              11,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765153566839468000,
+      "in_reply_to_status_id_str": "765153566839468036",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 11:52:17 +0000 2016",
+      "id": 765154138753790000,
+      "id_str": "765154138753789952",
+      "text": "It’s important, since most of the meetups outside the Amsterdam are Dutch speaking, which prevent integration amongst wider audiences.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765153869747847200,
+      "in_reply_to_status_id_str": "765153869747847168",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 11:55:09 +0000 2016",
+      "id": 765154863139393500,
+      "id_str": "765154863139393541",
+      "text": "Thought I can understand the motivation, it’s Dutch speaking country, we should respect that and also learn the language.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765154138753790000,
+      "in_reply_to_status_id_str": "765154138753789952",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 11:56:16 +0000 2016",
+      "id": 765155143293739000,
+      "id_str": "765155143293739008",
+      "text": "Some middleground could be found, when primarily Dutch meetups are asking speakers to perform in English. It’s a nice compromise to have.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765154863139393500,
+      "in_reply_to_status_id_str": "765154863139393541",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 11:56:23 +0000 2016",
+      "id": 765155169709555700,
+      "id_str": "765155169709555712",
+      "text": "RT @_paulverbeek: Today @operatino kicked of @LocalSourceNL, the weekly shared account about development in the Netherlands.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_paulverbeek",
+            "name": "Paul Verbeek",
+            "id": 171404792,
+            "id_str": "171404792",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              24,
+              34
+            ]
+          },
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              45,
+              59
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 15 11:54:28 +0000 2016",
+        "id": 765154690040561700,
+        "id_str": "765154690040561664",
+        "text": "Today @operatino kicked of @LocalSourceNL, the weekly shared account about development in the Netherlands.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "operatino",
+              "name": "Robert Haritonov",
+              "id": 89017350,
+              "id_str": "89017350",
+              "indices": [
+                6,
+                16
+              ]
+            },
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                27,
+                41
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 171404792,
+          "id_str": "171404792"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 11:57:24 +0000 2016",
+      "id": 765155426065350700,
+      "id_str": "765155426065350656",
+      "text": "Talking about the spoken languages in the community - when I’ve just relocated, I though most IT companies are English speaking.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 11:58:12 +0000 2016",
+      "id": 765155627853291500,
+      "id_str": "765155627853291520",
+      "text": "But the more people I meet, especially from outside Amsterdam, I see that there’s still probably more Dutch IT companies around the country.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765155426065350700,
+      "in_reply_to_status_id_str": "765155426065350656",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 11:59:03 +0000 2016",
+      "id": 765155842433908700,
+      "id_str": "765155842433908736",
+      "text": "Some meetups are even trying to organize purely Dutch events to attract potential hires for companies that don’t hire English speaking devs.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765155627853291500,
+      "in_reply_to_status_id_str": "765155627853291520",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 11:59:56 +0000 2016",
+      "id": 765156063683444700,
+      "id_str": "765156063683444736",
+      "text": "Been on one of those meetups, discussing this situation with the organizer. That was the place where speaker was presenting in English.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765155842433908700,
+      "in_reply_to_status_id_str": "765155842433908736",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 12:01:03 +0000 2016",
+      "id": 765156345922420700,
+      "id_str": "765156345922420736",
+      "text": "But I probably was the only one amongst attendees who did’t knew Dutch :) Was not that comfortable, but I came for the content mostly.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765156063683444700,
+      "in_reply_to_status_id_str": "765156063683444736",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 12:01:39 +0000 2016",
+      "id": 765156497919709200,
+      "id_str": "765156497919709185",
+      "text": "Fun fact - in Latvia, most of IT groups trying to speak only English, so both Latvian and Russian speaking people could feel comfortable.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765156345922420700,
+      "in_reply_to_status_id_str": "765156345922420736",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 12:03:54 +0000 2016",
+      "id": 765157063760703500,
+      "id_str": "765157063760703488",
+      "text": "The biggest local communities mystery for me is @fronteers group. They organize huge international conference, but members are Dutch only.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fronteers",
+            "name": "Fronteers",
+            "id": 14732134,
+            "id_str": "14732134",
+            "indices": [
+              48,
+              58
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 12:04:37 +0000 2016",
+      "id": 765157241955770400,
+      "id_str": "765157241955770368",
+      "text": "I think I met only one person from that community @_paulverbeek, who will also author this account soon.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_paulverbeek",
+            "name": "Paul Verbeek",
+            "id": 171404792,
+            "id_str": "171404792",
+            "indices": [
+              50,
+              63
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765157063760703500,
+      "in_reply_to_status_id_str": "765157063760703488",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 12:05:13 +0000 2016",
+      "id": 765157393286176800,
+      "id_str": "765157393286176768",
+      "text": "Would be great to hear more from them, and get more authors talking about @fronteers group and what’s happening there.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fronteers",
+            "name": "Fronteers",
+            "id": 14732134,
+            "id_str": "14732134",
+            "indices": [
+              74,
+              84
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765157241955770400,
+      "in_reply_to_status_id_str": "765157241955770368",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 12:13:00 +0000 2016",
+      "id": 765159351917109200,
+      "id_str": "765159351917109248",
+      "text": "RT @_paulverbeek: @LocalSourceNL @fronteers I'll try to clear up a bit of this mystery when I'm in charge of the account 😉",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_paulverbeek",
+            "name": "Paul Verbeek",
+            "id": 171404792,
+            "id_str": "171404792",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              18,
+              32
+            ]
+          },
+          {
+            "screen_name": "fronteers",
+            "name": "Fronteers",
+            "id": 14732134,
+            "id_str": "14732134",
+            "indices": [
+              33,
+              43
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 15 12:09:27 +0000 2016",
+        "id": 765158460132560900,
+        "id_str": "765158460132560896",
+        "text": "@LocalSourceNL @fronteers I'll try to clear up a bit of this mystery when I'm in charge of the account 😉",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "fronteers",
+              "name": "Fronteers",
+              "id": 14732134,
+              "id_str": "14732134",
+              "indices": [
+                15,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 765157063760703500,
+        "in_reply_to_status_id_str": "765157063760703488",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 171404792,
+          "id_str": "171404792"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 12:13:24 +0000 2016",
+      "id": 765159452198760400,
+      "id_str": "765159452198760448",
+      "text": "That would be lovely!\n\nhttps://t.co/sFayfVCCtM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sFayfVCCtM",
+            "expanded_url": "https://twitter.com/_paulverbeek/status/765158460132560896",
+            "display_url": "twitter.com/_paulverbeek/s…",
+            "indices": [
+              23,
+              46
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 765158460132560900,
+      "quoted_status_id_str": "765158460132560896",
+      "quoted_status": {
+        "created_at": "Mon Aug 15 12:09:27 +0000 2016",
+        "id": 765158460132560900,
+        "id_str": "765158460132560896",
+        "text": "@LocalSourceNL @fronteers I'll try to clear up a bit of this mystery when I'm in charge of the account 😉",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "fronteers",
+              "name": "Fronteers",
+              "id": 14732134,
+              "id_str": "14732134",
+              "indices": [
+                15,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 765157063760703500,
+        "in_reply_to_status_id_str": "765157063760703488",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 171404792,
+          "id_str": "171404792"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 12:15:48 +0000 2016",
+      "id": 765160058493739000,
+      "id_str": "765160058493739008",
+      "text": "RT @fronteers: @localsourcenl we have various non-Dutch members, but we're a Dutch association based in The Netherlands, so Dutch is the ma…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fronteers",
+            "name": "Fronteers",
+            "id": 14732134,
+            "id_str": "14732134",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 15 12:13:56 +0000 2016",
+        "id": 765159586617782300,
+        "id_str": "765159586617782272",
+        "text": "@localsourcenl we have various non-Dutch members, but we're a Dutch association based in The Netherlands, so Dutch is the main language.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 765157393286176800,
+        "in_reply_to_status_id_str": "765157393286176768",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 14732134,
+          "id_str": "14732134"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 12:15:49 +0000 2016",
+      "id": 765160064252579800,
+      "id_str": "765160064252579840",
+      "text": "RT @fronteers: @localsourcenl we do have some info about what we do and how available in English: https://t.co/i6ijO0bIbH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fronteers",
+            "name": "Fronteers",
+            "id": 14732134,
+            "id_str": "14732134",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/i6ijO0bIbH",
+            "expanded_url": "https://fronteers.nl/about",
+            "display_url": "fronteers.nl/about",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 15 12:14:48 +0000 2016",
+        "id": 765159804411273200,
+        "id_str": "765159804411273216",
+        "text": "@localsourcenl we do have some info about what we do and how available in English: https://t.co/i6ijO0bIbH",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/i6ijO0bIbH",
+              "expanded_url": "https://fronteers.nl/about",
+              "display_url": "fronteers.nl/about",
+              "indices": [
+                83,
+                106
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 765159586617782300,
+        "in_reply_to_status_id_str": "765159586617782272",
+        "in_reply_to_user_id": 14732134,
+        "in_reply_to_user_id_str": "14732134",
+        "in_reply_to_screen_name": "fronteers",
+        "user": {
+          "id": 14732134,
+          "id_str": "14732134"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 12:18:30 +0000 2016",
+      "id": 765160739371900900,
+      "id_str": "765160739371900928",
+      "text": "Thanks for sharing! I love @FronteersConf, been there 3 or 4 times already, hope to see more English events from you\nhttps://t.co/xr0MsXyvLq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "FronteersConf",
+            "name": "Fronteers Conference",
+            "id": 37661073,
+            "id_str": "37661073",
+            "indices": [
+              27,
+              41
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xr0MsXyvLq",
+            "expanded_url": "https://twitter.com/fronteers/status/765159804411273216",
+            "display_url": "twitter.com/fronteers/stat…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 765159804411273200,
+      "quoted_status_id_str": "765159804411273216",
+      "quoted_status": {
+        "created_at": "Mon Aug 15 12:14:48 +0000 2016",
+        "id": 765159804411273200,
+        "id_str": "765159804411273216",
+        "text": "@localsourcenl we do have some info about what we do and how available in English: https://t.co/i6ijO0bIbH",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/i6ijO0bIbH",
+              "expanded_url": "https://fronteers.nl/about",
+              "display_url": "fronteers.nl/about",
+              "indices": [
+                83,
+                106
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 765159586617782300,
+        "in_reply_to_status_id_str": "765159586617782272",
+        "in_reply_to_user_id": 14732134,
+        "in_reply_to_user_id_str": "14732134",
+        "in_reply_to_screen_name": "fronteers",
+        "user": {
+          "id": 14732134,
+          "id_str": "14732134"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 12:19:37 +0000 2016",
+      "id": 765161017814949900,
+      "id_str": "765161017814949888",
+      "text": "Make sense, I totally respect that. It’s just a bit sad missing some interesting, local content.\n\nhttps://t.co/HXHIDnUebl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HXHIDnUebl",
+            "expanded_url": "https://twitter.com/fronteers/status/765159586617782272",
+            "display_url": "twitter.com/fronteers/stat…",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 765159586617782300,
+      "quoted_status_id_str": "765159586617782272",
+      "quoted_status": {
+        "created_at": "Mon Aug 15 12:13:56 +0000 2016",
+        "id": 765159586617782300,
+        "id_str": "765159586617782272",
+        "text": "@localsourcenl we have various non-Dutch members, but we're a Dutch association based in The Netherlands, so Dutch is the main language.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 765157393286176800,
+        "in_reply_to_status_id_str": "765157393286176768",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 14732134,
+          "id_str": "14732134"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 12:21:39 +0000 2016",
+      "id": 765161529692065800,
+      "id_str": "765161529692065792",
+      "text": "If you like the idea of shared Twi acc. and want to share insights with international communty please apply for week authorship @fronteers",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fronteers",
+            "name": "Fronteers",
+            "id": 14732134,
+            "id_str": "14732134",
+            "indices": [
+              128,
+              138
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765161017814949900,
+      "in_reply_to_status_id_str": "765161017814949888",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 12:22:16 +0000 2016",
+      "id": 765161685233594400,
+      "id_str": "765161685233594368",
+      "text": "I believe many of local expats would be interested in getting more motivation on learning Dutch faster to join your group @fronteers",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fronteers",
+            "name": "Fronteers",
+            "id": 14732134,
+            "id_str": "14732134",
+            "indices": [
+              122,
+              132
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765161529692065800,
+      "in_reply_to_status_id_str": "765161529692065792",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 14:45:13 +0000 2016",
+      "id": 765197658193555500,
+      "id_str": "765197658193555456",
+      "text": "RT @hdv: @localsourcenl great reason to learn some Dutch! Some of our events are in English, for example this one on Thursday https://t.co/…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "hdv",
+            "name": "Hidde",
+            "id": 1653181,
+            "id_str": "1653181",
+            "indices": [
+              3,
+              7
+            ]
+          },
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              9,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/U8kfaPau37",
+            "expanded_url": "https://fronteers.nl/bijeenkomsten/2016/mirabeau",
+            "display_url": "fronteers.nl/bijeenkomsten/…",
+            "indices": [
+              126,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 15 14:44:17 +0000 2016",
+        "id": 765197426986774500,
+        "id_str": "765197426986774528",
+        "text": "@localsourcenl great reason to learn some Dutch! Some of our events are in English, for example this one on Thursday https://t.co/U8kfaPau37",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/U8kfaPau37",
+              "expanded_url": "https://fronteers.nl/bijeenkomsten/2016/mirabeau",
+              "display_url": "fronteers.nl/bijeenkomsten/…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 765161017814949900,
+        "in_reply_to_status_id_str": "765161017814949888",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 1653181,
+          "id_str": "1653181"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 16:47:11 +0000 2016",
+      "id": 765228352672333800,
+      "id_str": "765228352672333824",
+      "text": "Doing @ReactAmsterdam full day conference this year, we've built a great team and opened a Foundation to manage sponsors and tickets money.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ReactAmsterdam",
+            "name": "React.Amsterdam",
+            "id": 3023155108,
+            "id_str": "3023155108",
+            "indices": [
+              6,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 16:50:36 +0000 2016",
+      "id": 765229215058919400,
+      "id_str": "765229215058919424",
+      "text": "Thanks to that, without being dependent on any company we can finance more community driven events and build better events around NL.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765228352672333800,
+      "in_reply_to_status_id_str": "765228352672333824",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 16:52:11 +0000 2016",
+      "id": 765229612892905500,
+      "id_str": "765229612892905472",
+      "text": "Using our meetup sponsorship packages we plan to invite international speakers, rising the content quality  standards even higher.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765229215058919400,
+      "in_reply_to_status_id_str": "765229215058919424",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 16:55:27 +0000 2016",
+      "id": 765230435504885800,
+      "id_str": "765230435504885760",
+      "text": "Thanks to @libertyglobal and BlueFront we also got really nice video recording setup for our event talks.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "libertyglobal",
+            "name": "Liberty Global",
+            "id": 3165865821,
+            "id_str": "3165865821",
+            "indices": [
+              10,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765229612892905500,
+      "in_reply_to_status_id_str": "765229612892905472",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 16:56:23 +0000 2016",
+      "id": 765230668678914000,
+      "id_str": "765230668678914048",
+      "text": "BTW, if you're running a meetup, and want to get help on recording your content - we can always help with that!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765230435504885800,
+      "in_reply_to_status_id_str": "765230435504885760",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 16:58:02 +0000 2016",
+      "id": 765231082497245200,
+      "id_str": "765231082497245184",
+      "text": "Right now we're working on new meetups schedule, planning multiple events ahead both for @ReactAmsterdam and @AmsterdamJS.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ReactAmsterdam",
+            "name": "React.Amsterdam",
+            "id": 3023155108,
+            "id_str": "3023155108",
+            "indices": [
+              89,
+              104
+            ]
+          },
+          {
+            "screen_name": "amsterdamjs",
+            "name": "Amsterdam Javascript",
+            "id": 145599406,
+            "id_str": "145599406",
+            "indices": [
+              109,
+              121
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765230668678914000,
+      "in_reply_to_status_id_str": "765230668678914048",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 17:01:02 +0000 2016",
+      "id": 765231838378025000,
+      "id_str": "765231838378024960",
+      "text": "The next event is both season opening and the coming back edition, happening September 8th at @bookingcom - https://t.co/bTf9zvBmta",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bookingcom",
+            "name": "Booking.com",
+            "id": 26516576,
+            "id_str": "26516576",
+            "indices": [
+              94,
+              105
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/bTf9zvBmta",
+            "expanded_url": "http://meetu.ps/e/BSRqQ/8Ws1q/a",
+            "display_url": "meetu.ps/e/BSRqQ/8Ws1q/a",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765231082497245200,
+      "in_reply_to_status_id_str": "765231082497245184",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 17:02:37 +0000 2016",
+      "id": 765232236677431300,
+      "id_str": "765232236677431296",
+      "text": "And in parallel we're working on preparation of two full day conferences next year on React and JavaScript in Amsterdam.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765231838378025000,
+      "in_reply_to_status_id_str": "765231838378024960",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 15 17:10:39 +0000 2016",
+      "id": 765234260244561900,
+      "id_str": "765234260244561922",
+      "text": "RT @amsterdamjs: AmsterdamJS is back! Get ready to our opening event on September 8th at @bookingcom - https://t.co/Ma7Xl349Ur https://t.co…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amsterdamjs",
+            "name": "Amsterdam Javascript",
+            "id": 145599406,
+            "id_str": "145599406",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "bookingcom",
+            "name": "Booking.com",
+            "id": 26516576,
+            "id_str": "26516576",
+            "indices": [
+              89,
+              100
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Ma7Xl349Ur",
+            "expanded_url": "http://meetu.ps/e/BSRqQ/8Ws1q/a",
+            "display_url": "meetu.ps/e/BSRqQ/8Ws1q/a",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 765234158792761300,
+            "id_str": "765234158792761344",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp6oabzWYAAmsvt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp6oabzWYAAmsvt.jpg",
+            "url": "https://t.co/zuJjzbdq4Q",
+            "display_url": "pic.twitter.com/zuJjzbdq4Q",
+            "expanded_url": "http://twitter.com/amsterdamjs/status/765234163607801857/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 570,
+                "h": 278,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 570,
+                "h": 278,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 570,
+                "h": 278,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 765234163607801900,
+            "source_status_id_str": "765234163607801857",
+            "source_user_id": 145599406,
+            "source_user_id_str": "145599406"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 765234158792761300,
+            "id_str": "765234158792761344",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp6oabzWYAAmsvt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp6oabzWYAAmsvt.jpg",
+            "url": "https://t.co/zuJjzbdq4Q",
+            "display_url": "pic.twitter.com/zuJjzbdq4Q",
+            "expanded_url": "http://twitter.com/amsterdamjs/status/765234163607801857/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 570,
+                "h": 278,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 570,
+                "h": 278,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 570,
+                "h": 278,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 765234163607801900,
+            "source_status_id_str": "765234163607801857",
+            "source_user_id": 145599406,
+            "source_user_id_str": "145599406"
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 15 17:10:16 +0000 2016",
+        "id": 765234163607801900,
+        "id_str": "765234163607801857",
+        "text": "AmsterdamJS is back! Get ready to our opening event on September 8th at @bookingcom - https://t.co/Ma7Xl349Ur https://t.co/zuJjzbdq4Q",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "bookingcom",
+              "name": "Booking.com",
+              "id": 26516576,
+              "id_str": "26516576",
+              "indices": [
+                72,
+                83
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Ma7Xl349Ur",
+              "expanded_url": "http://meetu.ps/e/BSRqQ/8Ws1q/a",
+              "display_url": "meetu.ps/e/BSRqQ/8Ws1q/a",
+              "indices": [
+                86,
+                109
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 765234158792761300,
+              "id_str": "765234158792761344",
+              "indices": [
+                110,
+                133
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cp6oabzWYAAmsvt.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cp6oabzWYAAmsvt.jpg",
+              "url": "https://t.co/zuJjzbdq4Q",
+              "display_url": "pic.twitter.com/zuJjzbdq4Q",
+              "expanded_url": "http://twitter.com/amsterdamjs/status/765234163607801857/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 570,
+                  "h": 278,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 570,
+                  "h": 278,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 570,
+                  "h": 278,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 765234158792761300,
+              "id_str": "765234158792761344",
+              "indices": [
+                110,
+                133
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cp6oabzWYAAmsvt.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cp6oabzWYAAmsvt.jpg",
+              "url": "https://t.co/zuJjzbdq4Q",
+              "display_url": "pic.twitter.com/zuJjzbdq4Q",
+              "expanded_url": "http://twitter.com/amsterdamjs/status/765234163607801857/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 570,
+                  "h": 278,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 570,
+                  "h": 278,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 570,
+                  "h": 278,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 145599406,
+          "id_str": "145599406"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 06:52:08 +0000 2016",
+      "id": 765440991373459500,
+      "id_str": "765440991373459456",
+      "text": "Today's topic is Open Source. This will require some more interaction, so hoping you will get involved into conversation.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 06:53:54 +0000 2016",
+      "id": 765441436733083600,
+      "id_str": "765441436733083648",
+      "text": "I've been doing open source here and there before, with a biggest of my projects @SourceJS + small contributions to NPM modules.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SourceJS",
+            "name": "Source",
+            "id": 1383798391,
+            "id_str": "1383798391",
+            "indices": [
+              81,
+              90
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765440991373459500,
+      "in_reply_to_status_id_str": "765440991373459456",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 06:55:15 +0000 2016",
+      "id": 765441776362684400,
+      "id_str": "765441776362684416",
+      "text": "With my previous team, we've been trying to build an articles hub with people ranking on materials per topic - https://t.co/wvdQubWIFM.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wvdQubWIFM",
+            "expanded_url": "http://devshelf.us",
+            "display_url": "devshelf.us",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765441436733083600,
+      "in_reply_to_status_id_str": "765441436733083648",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 06:57:58 +0000 2016",
+      "id": 765442460952698900,
+      "id_str": "765442460952698880",
+      "text": "But it didn't worked out much, since it's really hard to maintain. Thinking of relaunching it as a awesome lists hub https://t.co/khtPo2lrXY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/khtPo2lrXY",
+            "expanded_url": "https://github.com/sindresorhus/awesome",
+            "display_url": "github.com/sindresorhus/a…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765441776362684400,
+      "in_reply_to_status_id_str": "765441776362684416",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 06:58:54 +0000 2016",
+      "id": 765442696421015600,
+      "id_str": "765442696421015552",
+      "text": "Sadly, this time with all the events organization I don't have enough time to work on OS much. But we plan to contribute in other way.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765442460952698900,
+      "in_reply_to_status_id_str": "765442460952698880",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 07:01:15 +0000 2016",
+      "id": 765443288241406000,
+      "id_str": "765443288241405952",
+      "text": "Our big goal is to promote the idea of open source amongst local companies, as a tool to expose their brands and job openings.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 07:03:00 +0000 2016",
+      "id": 765443726529466400,
+      "id_str": "765443726529466368",
+      "text": "The more companies are on board with an idea of giving back some efforts into OS, the more devs will have enough motivation to contribute.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765443288241406000,
+      "in_reply_to_status_id_str": "765443288241405952",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 07:08:14 +0000 2016",
+      "id": 765445045361242100,
+      "id_str": "765445045361242112",
+      "text": "Let's try gathering a list of NL based companies that are already contributing to open source. Please reply with the names you know.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 07:14:25 +0000 2016",
+      "id": 765446601594765300,
+      "id_str": "765446601594765312",
+      "text": "The ones I know: @Xebia https://t.co/gmBVCLpKtB, @Mendix https://t.co/swU0EKcLUX, @bookingcom https://t.co/3kUZOCpjvF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Xebia",
+            "name": "Xebia Nederland BV",
+            "id": 14460403,
+            "id_str": "14460403",
+            "indices": [
+              17,
+              23
+            ]
+          },
+          {
+            "screen_name": "Mendix",
+            "name": "Mendix",
+            "id": 262589969,
+            "id_str": "262589969",
+            "indices": [
+              49,
+              56
+            ]
+          },
+          {
+            "screen_name": "bookingcom",
+            "name": "Booking.com",
+            "id": 26516576,
+            "id_str": "26516576",
+            "indices": [
+              82,
+              93
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gmBVCLpKtB",
+            "expanded_url": "https://xebia.com/open-source",
+            "display_url": "xebia.com/open-source",
+            "indices": [
+              24,
+              47
+            ]
+          },
+          {
+            "url": "https://t.co/swU0EKcLUX",
+            "expanded_url": "https://github.com/mendix/open-source-contributions/blob/master/README.md",
+            "display_url": "github.com/mendix/open-so…",
+            "indices": [
+              57,
+              80
+            ]
+          },
+          {
+            "url": "https://t.co/3kUZOCpjvF",
+            "expanded_url": "https://github.com/bookingcom?tab=repositories",
+            "display_url": "github.com/bookingcom?tab…",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765445045361242100,
+      "in_reply_to_status_id_str": "765445045361242112",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 08:15:23 +0000 2016",
+      "id": 765461944253972500,
+      "id_str": "765461944253972480",
+      "text": "That’s a nice one to mention https://t.co/0n3Zb5hjTg. Thanks @jitendravyas.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jitendravyas",
+            "name": "Jitendra Vyas",
+            "id": 14206151,
+            "id_str": "14206151",
+            "indices": [
+              61,
+              74
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0n3Zb5hjTg",
+            "expanded_url": "https://github.com/koenbok/Framer",
+            "display_url": "github.com/koenbok/Framer",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765455816606543900,
+      "in_reply_to_status_id_str": "765455816606543872",
+      "in_reply_to_user_id": 14206151,
+      "in_reply_to_user_id_str": "14206151",
+      "in_reply_to_screen_name": "jitendravyas",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 08:16:30 +0000 2016",
+      "id": 765462223233966100,
+      "id_str": "765462223233966080",
+      "text": "@miguel_f have any links to OS projects from @SchubergPhilis? Would like to share them.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "miguel_f",
+            "name": "Miguel Ferreira",
+            "id": 28187649,
+            "id_str": "28187649",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "SchubergPhilis",
+            "name": "SchubergPhilis",
+            "id": 95177286,
+            "id_str": "95177286",
+            "indices": [
+              45,
+              60
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765456586873733100,
+      "in_reply_to_status_id_str": "765456586873733120",
+      "in_reply_to_user_id": 28187649,
+      "in_reply_to_user_id_str": "28187649",
+      "in_reply_to_screen_name": "miguel_f",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 08:21:28 +0000 2016",
+      "id": 765463472926814200,
+      "id_str": "765463472926814209",
+      "text": "I believe we can also put Elasticsearch from @elastic to the list https://t.co/Qhc922ImjG. \n\nKeep sharing, there gotta be more OS companies!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "elastic",
+            "name": "elastic",
+            "id": 84512601,
+            "id_str": "84512601",
+            "indices": [
+              45,
+              53
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Qhc922ImjG",
+            "expanded_url": "https://github.com/elastic/elasticsearch",
+            "display_url": "github.com/elastic/elasti…",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765445045361242100,
+      "in_reply_to_status_id_str": "765445045361242112",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 09:16:02 +0000 2016",
+      "id": 765477206005014500,
+      "id_str": "765477206005014528",
+      "text": "RT @miguel_f: @localsourcenl @schubergphilis Sure! There’s the Mission Critical Cloud (https://t.co/atWiV2gP8M) main repo is https://t.co/p…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "miguel_f",
+            "name": "Miguel Ferreira",
+            "id": 28187649,
+            "id_str": "28187649",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              14,
+              28
+            ]
+          },
+          {
+            "screen_name": "SchubergPhilis",
+            "name": "SchubergPhilis",
+            "id": 95177286,
+            "id_str": "95177286",
+            "indices": [
+              29,
+              44
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/atWiV2gP8M",
+            "expanded_url": "https://github.com/MissionCriticalCloud/",
+            "display_url": "github.com/MissionCritica…",
+            "indices": [
+              87,
+              110
+            ]
+          },
+          {
+            "url": "https://t.co/pv77CqXb6n",
+            "expanded_url": "https://github.com/MissionCriticalCloud/cosmic",
+            "display_url": "github.com/MissionCritica…",
+            "indices": [
+              125,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Aug 16 09:09:04 +0000 2016",
+        "id": 765475453268287500,
+        "id_str": "765475453268287488",
+        "text": "@localsourcenl @schubergphilis Sure! There’s the Mission Critical Cloud (https://t.co/atWiV2gP8M) main repo is https://t.co/pv77CqXb6n",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "SchubergPhilis",
+              "name": "SchubergPhilis",
+              "id": 95177286,
+              "id_str": "95177286",
+              "indices": [
+                15,
+                30
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/atWiV2gP8M",
+              "expanded_url": "https://github.com/MissionCriticalCloud/",
+              "display_url": "github.com/MissionCritica…",
+              "indices": [
+                73,
+                96
+              ]
+            },
+            {
+              "url": "https://t.co/pv77CqXb6n",
+              "expanded_url": "https://github.com/MissionCriticalCloud/cosmic",
+              "display_url": "github.com/MissionCritica…",
+              "indices": [
+                111,
+                134
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 765462223233966100,
+        "in_reply_to_status_id_str": "765462223233966080",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 28187649,
+          "id_str": "28187649"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 09:16:22 +0000 2016",
+      "id": 765477288796418000,
+      "id_str": "765477288796418052",
+      "text": "RT @miguel_f: @localsourcenl @schubergphilis also a few vagrant plugins https://t.co/MyhszlLqhq &amp; https://t.co/jMRuuzBxCI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "miguel_f",
+            "name": "Miguel Ferreira",
+            "id": 28187649,
+            "id_str": "28187649",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              14,
+              28
+            ]
+          },
+          {
+            "screen_name": "SchubergPhilis",
+            "name": "SchubergPhilis",
+            "id": 95177286,
+            "id_str": "95177286",
+            "indices": [
+              29,
+              44
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/MyhszlLqhq",
+            "expanded_url": "https://github.com/schubergphilis/vagrant-cloudstack",
+            "display_url": "github.com/schubergphilis…",
+            "indices": [
+              72,
+              95
+            ]
+          },
+          {
+            "url": "https://t.co/jMRuuzBxCI",
+            "expanded_url": "https://github.com/schubergphilis/vagrant-chef-zero",
+            "display_url": "github.com/schubergphilis…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Aug 16 09:09:43 +0000 2016",
+        "id": 765475617550762000,
+        "id_str": "765475617550761984",
+        "text": "@localsourcenl @schubergphilis also a few vagrant plugins https://t.co/MyhszlLqhq &amp; https://t.co/jMRuuzBxCI",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "SchubergPhilis",
+              "name": "SchubergPhilis",
+              "id": 95177286,
+              "id_str": "95177286",
+              "indices": [
+                15,
+                30
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/MyhszlLqhq",
+              "expanded_url": "https://github.com/schubergphilis/vagrant-cloudstack",
+              "display_url": "github.com/schubergphilis…",
+              "indices": [
+                58,
+                81
+              ]
+            },
+            {
+              "url": "https://t.co/jMRuuzBxCI",
+              "expanded_url": "https://github.com/schubergphilis/vagrant-chef-zero",
+              "display_url": "github.com/schubergphilis…",
+              "indices": [
+                88,
+                111
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 765462223233966100,
+        "in_reply_to_status_id_str": "765462223233966080",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 28187649,
+          "id_str": "28187649"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 13:05:14 +0000 2016",
+      "id": 765534887931772900,
+      "id_str": "765534887931772929",
+      "text": "RT @MendixDeveloper: @LocalSourceNL We do our part in OS! https://t.co/kSeMfFTCyP, not to forget our open source Model specification https:…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MendixDeveloper",
+            "name": "Mendix Developers",
+            "id": 3888010169,
+            "id_str": "3888010169",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              21,
+              35
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kSeMfFTCyP",
+            "expanded_url": "https://github.com/mendix/open-source-contributions/blob/master/README.md",
+            "display_url": "github.com/mendix/open-so…",
+            "indices": [
+              58,
+              81
+            ]
+          },
+          {
+            "url": "https://t.co/UkGLxx6flP",
+            "expanded_url": "https://developers.mendix.com/sdk/",
+            "display_url": "developers.mendix.com/sdk/",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Aug 16 12:20:38 +0000 2016",
+        "id": 765523660400631800,
+        "id_str": "765523660400631808",
+        "text": "@LocalSourceNL We do our part in OS! https://t.co/kSeMfFTCyP, not to forget our open source Model specification https://t.co/UkGLxx6flP",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/kSeMfFTCyP",
+              "expanded_url": "https://github.com/mendix/open-source-contributions/blob/master/README.md",
+              "display_url": "github.com/mendix/open-so…",
+              "indices": [
+                37,
+                60
+              ]
+            },
+            {
+              "url": "https://t.co/UkGLxx6flP",
+              "expanded_url": "https://developers.mendix.com/sdk/",
+              "display_url": "developers.mendix.com/sdk/",
+              "indices": [
+                112,
+                135
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 765445045361242100,
+        "in_reply_to_status_id_str": "765445045361242112",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 3888010169,
+          "id_str": "3888010169"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 13:39:01 +0000 2016",
+      "id": 765543388468969500,
+      "id_str": "765543388468969473",
+      "text": "Busy day, can’t tweet much till I’m off from the office. Do you have some more local open source to share? Tell us what you’re working on.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 15:44:30 +0000 2016",
+      "id": 765574968402972700,
+      "id_str": "765574968402972673",
+      "text": "So we've got some open source contributor companies listed here, but I was expecting a big longer list. But no worries, we'll get there.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765446601594765300,
+      "in_reply_to_status_id_str": "765446601594765312",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 15:46:40 +0000 2016",
+      "id": 765575511955374100,
+      "id_str": "765575511955374086",
+      "text": "IMHO it's every big tech company duty to allow their devs spending some time on open source. Don't just consume, give things back as well.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 15:47:45 +0000 2016",
+      "id": 765575786883584000,
+      "id_str": "765575786883584000",
+      "text": "Other question is - how much big tech companies we have in NL, since I mostly know smaller, product companies and startups.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765575511955374100,
+      "in_reply_to_status_id_str": "765575511955374086",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 15:49:33 +0000 2016",
+      "id": 765576236869574700,
+      "id_str": "765576236869574656",
+      "text": "Heading now to Uber tech event, interesting to see what kind of engineering team they are baking here in Amsterdam.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765575786883584000,
+      "in_reply_to_status_id_str": "765575786883584000",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 15:57:32 +0000 2016",
+      "id": 765578246691885000,
+      "id_str": "765578246691885056",
+      "text": "Both. But most importantly- contribute to other tools that community already uses, and share own, re-usable tools.\n\nhttps://t.co/bmesx12DRY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bmesx12DRY",
+            "expanded_url": "https://twitter.com/jitendravyas/status/765577579059376128",
+            "display_url": "twitter.com/jitendravyas/s…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 765577579059376100,
+      "quoted_status_id_str": "765577579059376128",
+      "quoted_status": {
+        "created_at": "Tue Aug 16 15:54:53 +0000 2016",
+        "id": 765577579059376100,
+        "id_str": "765577579059376128",
+        "text": "@LocalSourceNL What do you mean by \"companies contributing to os\"? companies have OS their tools or contributing to another OS tools?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 765445045361242100,
+        "in_reply_to_status_id_str": "765445045361242112",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 14206151,
+          "id_str": "14206151"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 16:00:20 +0000 2016",
+      "id": 765578953419530200,
+      "id_str": "765578953419530240",
+      "text": "Sad to see that @ingnl is not building much for the community, being a huge company with many devs. Correct me, if I'm wrong.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ingnl",
+            "name": "ING Nederland",
+            "id": 71515969,
+            "id_str": "71515969",
+            "indices": [
+              16,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765575511955374100,
+      "in_reply_to_status_id_str": "765575511955374086",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 16:02:49 +0000 2016",
+      "id": 765579574881247200,
+      "id_str": "765579574881247232",
+      "text": "Fun fact - after googling company github accounts, I found that DevOps repos are the most popular amongst not very active OS contributors.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 16:03:58 +0000 2016",
+      "id": 765579866087493600,
+      "id_str": "765579866087493632",
+      "text": "And I though it's JavaScript community spawning lot's of OS libs and frameworks. At least not here.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765579574881247200,
+      "in_reply_to_status_id_str": "765579574881247232",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 16:09:38 +0000 2016",
+      "id": 765581290917732400,
+      "id_str": "765581290917732353",
+      "text": "But I see @ingnl is baking something interesting with @polymer. Would be great to get somebody from their dev team here to share insights.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ingnl",
+            "name": "ING Nederland",
+            "id": 71515969,
+            "id_str": "71515969",
+            "indices": [
+              10,
+              16
+            ]
+          },
+          {
+            "screen_name": "polymer",
+            "name": "Polymer",
+            "id": 1425993918,
+            "id_str": "1425993918",
+            "indices": [
+              54,
+              62
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765578953419530200,
+      "in_reply_to_status_id_str": "765578953419530240",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 16:10:48 +0000 2016",
+      "id": 765581584070213600,
+      "id_str": "765581584070213632",
+      "text": "Here are few of their bootstrap and component repos https://t.co/4ZMu9OP60y https://t.co/w51IQKOFx1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4ZMu9OP60y",
+            "expanded_url": "https://github.com/ING-Group/tpa-bootstrap/blob/master/README.md",
+            "display_url": "github.com/ING-Group/tpa-…",
+            "indices": [
+              52,
+              75
+            ]
+          },
+          {
+            "url": "https://t.co/w51IQKOFx1",
+            "expanded_url": "https://github.com/ING-Group/tpa-money-transfer/blob/master/README.md",
+            "display_url": "github.com/ING-Group/tpa-…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765581290917732400,
+      "in_reply_to_status_id_str": "765581290917732353",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 16:15:16 +0000 2016",
+      "id": 765582708961644500,
+      "id_str": "765582708961644545",
+      "text": "With @ReactAmsterdam team we're currently drafting ideas on building dev portal, where we'll also gather local companies and OS projects.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ReactAmsterdam",
+            "name": "React.Amsterdam",
+            "id": 3023155108,
+            "id_str": "3023155108",
+            "indices": [
+              5,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }
