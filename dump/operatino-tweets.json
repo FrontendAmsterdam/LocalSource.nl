@@ -5478,6 +5478,1058 @@
       "favorited": false,
       "retweeted": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 16:50:47 +0000 2016",
+      "id": 765591647883300900,
+      "id_str": "765591647883300864",
+      "text": "RT @bechrissed: @LocalSourceNL @amsterdamjs Ahold - https://t.co/QxcXwk1s4r",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bechrissed",
+            "name": "Chris Koster",
+            "id": 15950150,
+            "id_str": "15950150",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              16,
+              30
+            ]
+          },
+          {
+            "screen_name": "amsterdamjs",
+            "name": "Amsterdam Javascript",
+            "id": 145599406,
+            "id_str": "145599406",
+            "indices": [
+              31,
+              43
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QxcXwk1s4r",
+            "expanded_url": "https://github.com/rickekelschot/backbone.supercharger",
+            "display_url": "github.com/rickekelschot/…",
+            "indices": [
+              52,
+              75
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Aug 16 16:46:59 +0000 2016",
+        "id": 765590692487921700,
+        "id_str": "765590692487921664",
+        "text": "@LocalSourceNL @amsterdamjs Ahold - https://t.co/QxcXwk1s4r",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "amsterdamjs",
+              "name": "Amsterdam Javascript",
+              "id": 145599406,
+              "id_str": "145599406",
+              "indices": [
+                15,
+                27
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/QxcXwk1s4r",
+              "expanded_url": "https://github.com/rickekelschot/backbone.supercharger",
+              "display_url": "github.com/rickekelschot/…",
+              "indices": [
+                36,
+                59
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": 765445045361242100,
+        "in_reply_to_status_id_str": "765445045361242112",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 15950150,
+          "id_str": "15950150"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 19:13:32 +0000 2016",
+      "id": 765627573267202000,
+      "id_str": "765627573267202048",
+      "text": "Heading home from Uber meetup, where they shared the story of internals organization. Was like I visited the embassy of Silicon Valley :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 19:15:53 +0000 2016",
+      "id": 765628165309993000,
+      "id_str": "765628165309992960",
+      "text": "2000 engineers doing truly Agile product development with rocket science tooling made by platform department. #nerderlands @UberEng",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "nerderlands",
+            "indices": [
+              110,
+              122
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "UberEng",
+            "name": "Uber Engineering",
+            "id": 2573880420,
+            "id_str": "2573880420",
+            "indices": [
+              123,
+              131
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765627573267202000,
+      "in_reply_to_status_id_str": "765627573267202048",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 17 06:51:18 +0000 2016",
+      "id": 765803172623441900,
+      "id_str": "765803172623441920",
+      "text": "Today's topic - FE frameworks and libraries.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 17 06:53:56 +0000 2016",
+      "id": 765803835453476900,
+      "id_str": "765803835453476864",
+      "text": "On current project we're using React + Fluxible for building isomorphic video streaming SPA, next gen Horizon GO web (for Ziggo customers).",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765803172623441900,
+      "in_reply_to_status_id_str": "765803172623441920",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 17 06:57:37 +0000 2016",
+      "id": 765804758376575000,
+      "id_str": "765804758376574976",
+      "text": "React is proving itself well, in a fairly large project. But most importantly, it encourages using FP patterns making code more expressive.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765803835453476900,
+      "in_reply_to_status_id_str": "765803835453476864",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 17 06:59:16 +0000 2016",
+      "id": 765805177244905500,
+      "id_str": "765805177244905472",
+      "text": "As far as I noticed, Angular currently have a lot stronger positions on NL market. Which is fair, since it's just a tool for the business.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 17 07:00:09 +0000 2016",
+      "id": 765805396669952000,
+      "id_str": "765805396669952000",
+      "text": "Although I prefer React and patterns commonly used in the community, I would recommend Angular for certain type of projects and teams.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765805177244905500,
+      "in_reply_to_status_id_str": "765805177244905472",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 17 07:00:59 +0000 2016",
+      "id": 765805605789524000,
+      "id_str": "765805605789523969",
+      "text": "And considering a lot of mess in NG2, it could be even the first version to choose. Especially after they implemented components.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765805396669952000,
+      "in_reply_to_status_id_str": "765805396669952000",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 17 07:03:18 +0000 2016",
+      "id": 765806189540151300,
+      "id_str": "765806189540151296",
+      "text": "A bit sad to see that Ember is not getting enough attention, considering its maturity and plug ability it's a really powerful ecosystem.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 17 07:05:45 +0000 2016",
+      "id": 765806805805064200,
+      "id_str": "765806805805064193",
+      "text": "BTW, we'll have a talk about the state of Ember in next @amsterdamjs, Sep 8th. Come to learn about it, and maybe you'll like it (over ng2).",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amsterdamjs",
+            "name": "Amsterdam Javascript",
+            "id": 145599406,
+            "id_str": "145599406",
+            "indices": [
+              56,
+              68
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765806189540151300,
+      "in_reply_to_status_id_str": "765806189540151296",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 17 07:30:55 +0000 2016",
+      "id": 765813139564789800,
+      "id_str": "765813139564789764",
+      "text": "Do you use one of the standard FE frameworks set (Ng, React, Ember), or something exotic? Share some names and links!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 17 11:06:20 +0000 2016",
+      "id": 765867351292207100,
+      "id_str": "765867351292207104",
+      "text": "Been mentioning @polymer yesterday, was surprised that it actually gets adopted in bigger companies. Who’ve tried it in production?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "polymer",
+            "name": "Polymer",
+            "id": 1425993918,
+            "id_str": "1425993918",
+            "indices": [
+              16,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 17 14:50:12 +0000 2016",
+      "id": 765923687971360800,
+      "id_str": "765923687971360768",
+      "text": "From one side, having other fully fledged frameworks, there's no much place for Polymer. But in big companies with a set of websites ...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765867351292207100,
+      "in_reply_to_status_id_str": "765867351292207104",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 17 14:51:02 +0000 2016",
+      "id": 765923898437275600,
+      "id_str": "765923898437275648",
+      "text": "... that need to follow common style, I see a fair adoption on web components based solutions.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765923687971360800,
+      "in_reply_to_status_id_str": "765923687971360768",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 17 14:53:32 +0000 2016",
+      "id": 765924529990463500,
+      "id_str": "765924529990463488",
+      "text": "Here's for example a journey of how @Adobe adopted custom elements for their CoralUI library https://t.co/eUnjSDqlON.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Adobe",
+            "name": "Adobe",
+            "id": 63786611,
+            "id_str": "63786611",
+            "indices": [
+              36,
+              42
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eUnjSDqlON",
+            "expanded_url": "https://www.youtube.com/watch?v=qcvnFteQaTk",
+            "display_url": "youtube.com/watch?v=qcvnFt…",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765923898437275600,
+      "in_reply_to_status_id_str": "765923898437275648",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 17 14:56:14 +0000 2016",
+      "id": 765925206544228400,
+      "id_str": "765925206544228352",
+      "text": "Or another story from @amazon, on how they built cross-framework components for their needs https://t.co/ifKNLuJ87A",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amazon",
+            "name": "Amazon",
+            "id": 20793816,
+            "id_str": "20793816",
+            "indices": [
+              22,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ifKNLuJ87A",
+            "expanded_url": "http://m.youtube.com/watch?v=cRTko6m6U4A",
+            "display_url": "m.youtube.com/watch?v=cRTko6…",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 765924529990463500,
+      "in_reply_to_status_id_str": "765924529990463488",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 17 16:54:25 +0000 2016",
+      "id": 765954951516487700,
+      "id_str": "765954951516487680",
+      "text": "That's a nice one. List of companies using @polymer https://t.co/nmV1H84NVN",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "polymer",
+            "name": "Polymer",
+            "id": 1425993918,
+            "id_str": "1425993918",
+            "indices": [
+              43,
+              51
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nmV1H84NVN",
+            "expanded_url": "https://twitter.com/ebidel/status/765931859016462336",
+            "display_url": "twitter.com/ebidel/status/…",
+            "indices": [
+              52,
+              75
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 765931859016462300,
+      "quoted_status_id_str": "765931859016462336",
+      "quoted_status": {
+        "created_at": "Wed Aug 17 15:22:40 +0000 2016",
+        "id": 765931859016462300,
+        "id_str": "765931859016462336",
+        "text": "@LocalSourceNL https://t.co/fqfkvDMauK",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/fqfkvDMauK",
+              "expanded_url": "https://github.com/Polymer/polymer/wiki/Who's-using-Polymer%3F",
+              "display_url": "github.com/Polymer/polyme…",
+              "indices": [
+                15,
+                38
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 765925206544228400,
+        "in_reply_to_status_id_str": "765925206544228352",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 14399709,
+          "id_str": "14399709"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Aug 18 06:58:35 +0000 2016",
+      "id": 766167392892354600,
+      "id_str": "766167392892354560",
+      "text": "Good morning everyone! Today will do a non-tech day, let's talk about hobbies instead + I'll try to do a photo stream of today's Drone day.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Aug 18 07:01:23 +0000 2016",
+      "id": 766168095132180500,
+      "id_str": "766168095132180480",
+      "text": "Here's the event page, hope to see some of you there as well https://t.co/wXQUT3F6Wf",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wXQUT3F6Wf",
+            "expanded_url": "https://www.facebook.com/events/1778520252392645/?ti=icl",
+            "display_url": "facebook.com/events/1778520…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 766167392892354600,
+      "in_reply_to_status_id_str": "766167392892354560",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Aug 18 07:04:08 +0000 2016",
+      "id": 766168789146865700,
+      "id_str": "766168789146865665",
+      "text": "I have small sports drone myself, but didn't had time to refresh my skills, so going only to observe what's happening there, and with pro's.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 766168095132180500,
+      "in_reply_to_status_id_str": "766168095132180480",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Aug 18 07:13:44 +0000 2016",
+      "id": 766171204952657900,
+      "id_str": "766171204952657920",
+      "text": "Tell us about your hobby's. Does somebody do IoT development in free time? Or maybe we even have pro drone racers?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 766168789146865700,
+      "in_reply_to_status_id_str": "766168789146865665",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Aug 18 16:34:25 +0000 2016",
+      "id": 766312305370009600,
+      "id_str": "766312305370009600",
+      "text": "Last minute schedule changes forced me to skip the Drone Day event :( But you can watch the FB live stream https://t.co/CvmIHr90qe",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CvmIHr90qe",
+            "expanded_url": "https://www.facebook.com/nrdrlnds/videos/vb.914235575389929/966910743455745",
+            "display_url": "facebook.com/nrdrlnds/video…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
     }
   ]
 }

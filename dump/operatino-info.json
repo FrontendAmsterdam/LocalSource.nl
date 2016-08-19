@@ -37,41 +37,40 @@
     }
   },
   "protected": false,
-  "followers_count": 84,
+  "followers_count": 85,
   "friends_count": 1,
-  "listed_count": 6,
+  "listed_count": 5,
   "created_at": "Tue Jun 21 11:51:48 +0000 2016",
-  "favourites_count": 1,
+  "favourites_count": 2,
   "utc_offset": 7200,
   "time_zone": "Amsterdam",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 109,
+  "statuses_count": 132,
   "lang": "en",
   "status": {
-    "created_at": "Tue Aug 16 16:15:16 +0000 2016",
-    "id": 765582708961644500,
-    "id_str": "765582708961644545",
-    "text": "With @ReactAmsterdam team we're currently drafting ideas on building dev portal, where we'll also gather local companies and OS projects.",
+    "created_at": "Thu Aug 18 16:34:25 +0000 2016",
+    "id": 766312305370009600,
+    "id_str": "766312305370009600",
+    "text": "Last minute schedule changes forced me to skip the Drone Day event :( But you can watch the FB live stream https://t.co/CvmIHr90qe",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "ReactAmsterdam",
-          "name": "React.Amsterdam",
-          "id": 3023155108,
-          "id_str": "3023155108",
+          "url": "https://t.co/CvmIHr90qe",
+          "expanded_url": "https://www.facebook.com/nrdrlnds/videos/vb.914235575389929/966910743455745",
+          "display_url": "facebook.com/nrdrlnds/video…",
           "indices": [
-            5,
-            20
+            107,
+            130
           ]
         }
-      ],
-      "urls": []
+      ]
     },
-    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -82,10 +81,11 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "en"
   },
   "contributors_enabled": false,
