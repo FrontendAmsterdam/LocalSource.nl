@@ -1,179 +1,6 @@
 {
   "tweets": [
     {
-      "created_at": "Mon Aug 08 13:21:51 +0000 2016",
-      "id": 762639967130644500,
-      "id_str": "762639967130644480",
-      "text": "Authors schedule is filling up well, we already have enough authors for the next two months! Starting mid-August, stay tuned!",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": []
-      },
-      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "user": {
-        "id": 745222684804583400,
-        "id_str": "745222684804583424"
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 2,
-      "favorite_count": 1,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "en"
-    },
-    {
-      "created_at": "Thu Aug 11 14:56:20 +0000 2016",
-      "id": 763750906173263900,
-      "id_str": "763750906173263872",
-      "text": "RT @operatino: AmsterdamJS is coming back! New season starts September 8th at @PlanetBooking HQ.\n\nFollow @AmsterdamJS for details.\n\nhttps:/…",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "operatino",
-            "name": "Robert Haritonov",
-            "id": 89017350,
-            "id_str": "89017350",
-            "indices": [
-              3,
-              13
-            ]
-          },
-          {
-            "screen_name": "PlanetBooking",
-            "name": "Planet Booking",
-            "id": 107373839,
-            "id_str": "107373839",
-            "indices": [
-              78,
-              92
-            ]
-          },
-          {
-            "screen_name": "amsterdamjs",
-            "name": "Amsterdam Javascript",
-            "id": 145599406,
-            "id_str": "145599406",
-            "indices": [
-              105,
-              117
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/laNOgTCYJu",
-            "expanded_url": "https://www.meetup.com/AmsterdamJS/events/233107619/",
-            "display_url": "meetup.com/AmsterdamJS/ev…",
-            "indices": [
-              139,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "user": {
-        "id": 745222684804583400,
-        "id_str": "745222684804583424"
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweeted_status": {
-        "created_at": "Thu Aug 11 14:55:45 +0000 2016",
-        "id": 763750757573226500,
-        "id_str": "763750757573226496",
-        "text": "AmsterdamJS is coming back! New season starts September 8th at @PlanetBooking HQ.\n\nFollow @AmsterdamJS for details.\n\nhttps://t.co/laNOgTCYJu",
-        "truncated": false,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "PlanetBooking",
-              "name": "Planet Booking",
-              "id": 107373839,
-              "id_str": "107373839",
-              "indices": [
-                63,
-                77
-              ]
-            },
-            {
-              "screen_name": "amsterdamjs",
-              "name": "Amsterdam Javascript",
-              "id": 145599406,
-              "id_str": "145599406",
-              "indices": [
-                90,
-                102
-              ]
-            }
-          ],
-          "urls": [
-            {
-              "url": "https://t.co/laNOgTCYJu",
-              "expanded_url": "https://www.meetup.com/AmsterdamJS/events/233107619/",
-              "display_url": "meetup.com/AmsterdamJS/ev…",
-              "indices": [
-                117,
-                140
-              ]
-            }
-          ]
-        },
-        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-          "id": 89017350,
-          "id_str": "89017350"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 6,
-        "favorite_count": 6,
-        "favorited": true,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "en"
-      },
-      "is_quote_status": false,
-      "retweet_count": 6,
-      "favorite_count": 0,
-      "favorited": true,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "en"
-    },
-    {
       "created_at": "Mon Aug 15 07:06:54 +0000 2016",
       "id": 765082320143544300,
       "id_str": "765082320143544320",
@@ -212,7 +39,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 3,
       "favorited": false,
       "retweeted": false,
       "lang": "en"
@@ -516,13 +343,13 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 2,
+          "favorite_count": 3,
           "favorited": false,
           "retweeted": false,
           "lang": "en"
         },
-        "retweet_count": 5,
-        "favorite_count": 0,
+        "retweet_count": 8,
+        "favorite_count": 2,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,
@@ -531,7 +358,7 @@
       "is_quote_status": true,
       "quoted_status_id": 765082320143544300,
       "quoted_status_id_str": "765082320143544320",
-      "retweet_count": 5,
+      "retweet_count": 8,
       "favorite_count": 0,
       "favorited": false,
       "retweeted": false,
@@ -1714,7 +1541,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "favorited": false,
       "retweeted": false,
       "lang": "en"
@@ -3940,15 +3767,15 @@
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 9,
-        "favorite_count": 4,
+        "retweet_count": 11,
+        "favorite_count": 5,
         "favorited": false,
         "retweeted": true,
         "possibly_sensitive": false,
         "lang": "en"
       },
       "is_quote_status": false,
-      "retweet_count": 9,
+      "retweet_count": 11,
       "favorite_count": 0,
       "favorited": false,
       "retweeted": true,
@@ -4503,7 +4330,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -5765,7 +5592,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "favorited": false,
       "retweeted": false,
       "lang": "en"
@@ -6529,6 +6356,137 @@
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Aug 21 18:02:33 +0000 2016",
+      "id": 767421649000038400,
+      "id_str": "767421649000038400",
+      "text": "Really enjoyed being with you here, that was a fun week! Sorry for missing out the weekend, family calls.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Aug 21 18:06:04 +0000 2016",
+      "id": 767422531313791000,
+      "id_str": "767422531313790976",
+      "text": "Now passing the account credentials to our next author - Ramon Victor @ramonvictor, very passionate developer from @bookingcom.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ramonvictor",
+            "name": "ramonvictor",
+            "id": 17886319,
+            "id_str": "17886319",
+            "indices": [
+              70,
+              82
+            ]
+          },
+          {
+            "screen_name": "bookingcom",
+            "name": "Booking.com",
+            "id": 26516576,
+            "id_str": "26516576",
+            "indices": [
+              115,
+              126
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 767421649000038400,
+      "in_reply_to_status_id_str": "767421649000038400",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Aug 21 18:08:54 +0000 2016",
+      "id": 767423244366385200,
+      "id_str": "767423244366385152",
+      "text": "Follow my personal twitter @operatino, and PM r@rhr.me if you want to become an author of this account for one of the coming weeks. Cheers!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              27,
+              37
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 767422531313791000,
+      "in_reply_to_status_id_str": "767422531313790976",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
       "lang": "en"
     }
   ]
