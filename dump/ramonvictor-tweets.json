@@ -1,0 +1,58 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Aug 22 11:35:23 +0000 2016",
+      "id": 767686602130849800,
+      "id_str": "767686602130849792",
+      "text": "Hi there, my name is @ramonvictor, I'm a Front-End Dev @ @bookingcom. I'm Brazilian and I work with web since 2008.  I'm excited to be here!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ramonvictor",
+            "name": "ramonvictor",
+            "id": 17886319,
+            "id_str": "17886319",
+            "indices": [
+              21,
+              33
+            ]
+          },
+          {
+            "screen_name": "bookingcom",
+            "name": "Booking.com",
+            "id": 26516576,
+            "id_str": "26516576",
+            "indices": [
+              57,
+              68
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "en"
+    }
+  ]
+}
