@@ -1,0 +1,460 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Aug 29 07:52:26 +0000 2016",
+      "id": 770167208198729700,
+      "id_str": "770167208198729728",
+      "text": "Hello everyone! My name is Norbert @norbertdelangen and I'll be sharing JS related topics this week. Exited to be here!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NorbertdeLangen",
+            "name": "Norbert de Langen",
+            "id": 369418577,
+            "id_str": "369418577",
+            "indices": [
+              35,
+              51
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 07:52:56 +0000 2016",
+      "id": 770167337509122000,
+      "id_str": "770167337509122048",
+      "text": "I do consultancy @xebia and currently do full-stack JS for @wehkamp I've worked for @heineken @hema @vwpfs @rtlnl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Xebia",
+            "name": "Xebia Nederland BV",
+            "id": 14460403,
+            "id_str": "14460403",
+            "indices": [
+              17,
+              23
+            ]
+          },
+          {
+            "screen_name": "wehkamp",
+            "name": "wehkamp.nl",
+            "id": 39704408,
+            "id_str": "39704408",
+            "indices": [
+              59,
+              67
+            ]
+          },
+          {
+            "screen_name": "Heineken",
+            "name": "Heineken",
+            "id": 29191062,
+            "id_str": "29191062",
+            "indices": [
+              84,
+              93
+            ]
+          },
+          {
+            "screen_name": "HEMA",
+            "name": "HEMA",
+            "id": 71786255,
+            "id_str": "71786255",
+            "indices": [
+              94,
+              99
+            ]
+          },
+          {
+            "screen_name": "VWPFS",
+            "name": "jobs",
+            "id": 62460319,
+            "id_str": "62460319",
+            "indices": [
+              100,
+              106
+            ]
+          },
+          {
+            "screen_name": "RTLNL",
+            "name": "RTL",
+            "id": 1322147168,
+            "id_str": "1322147168",
+            "indices": [
+              107,
+              113
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770167208198729700,
+      "in_reply_to_status_id_str": "770167208198729728",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 07:53:44 +0000 2016",
+      "id": 770167537036386300,
+      "id_str": "770167537036386304",
+      "text": "I love (and share info about): everything GUI &amp; UX, react, css-modules, performance, webpack, styleguides / component libraries.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770167208198729700,
+      "in_reply_to_status_id_str": "770167208198729728",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 08:00:44 +0000 2016",
+      "id": 770169300393070600,
+      "id_str": "770169300393070592",
+      "text": "I'd like to thank @operatino for this opportunity, and @ramonvictor for being a great host last week. If you want to know more about me...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              18,
+              28
+            ]
+          },
+          {
+            "screen_name": "ramonvictor",
+            "name": "ramonvictor",
+            "id": 17886319,
+            "id_str": "17886319",
+            "indices": [
+              55,
+              67
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 08:02:12 +0000 2016",
+      "id": 770169668678156300,
+      "id_str": "770169668678156288",
+      "text": "My Meetup: https://t.co/KZGvH5HfGD\nMy LinkedIn: https://t.co/TkH6dU3yq3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KZGvH5HfGD",
+            "expanded_url": "https://www.meetup.com/members/183466826/",
+            "display_url": "meetup.com/members/183466…",
+            "indices": [
+              11,
+              34
+            ]
+          },
+          {
+            "url": "https://t.co/TkH6dU3yq3",
+            "expanded_url": "https://nl.linkedin.com/in/ndelangen",
+            "display_url": "nl.linkedin.com/in/ndelangen",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770169300393070600,
+      "in_reply_to_status_id_str": "770169300393070592",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 08:15:08 +0000 2016",
+      "id": 770172920505241600,
+      "id_str": "770172920505241600",
+      "text": "I think it's a way to create complete GUI components that's better then global CSS. https://t.co/Nu2XuI91lu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Nu2XuI91lu",
+            "expanded_url": "https://twitter.com/jitendravyas/status/770169138065072128",
+            "display_url": "twitter.com/jitendravyas/s…",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 770169138065072100,
+      "quoted_status_id_str": "770169138065072128",
+      "quoted_status": {
+        "created_at": "Mon Aug 29 08:00:06 +0000 2016",
+        "id": 770169138065072100,
+        "id_str": "770169138065072128",
+        "text": "@LocalSourceNL What are your thoughts on CSS in JS?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 770167537036386300,
+        "in_reply_to_status_id_str": "770167537036386304",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 14206151,
+          "id_str": "14206151"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 08:23:17 +0000 2016",
+      "id": 770174971935096800,
+      "id_str": "770174971935096833",
+      "text": "@jitendravyas I'm not convinced it the absolute best solution, but I've worked with CSS-modules and found it very very useful.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jitendravyas",
+            "name": "Jitendra Vyas",
+            "id": 14206151,
+            "id_str": "14206151",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 770172920505241600,
+      "in_reply_to_status_id_str": "770172920505241600",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 08:29:55 +0000 2016",
+      "id": 770176642463502300,
+      "id_str": "770176642463502336",
+      "text": "@jitendravyas It does come with a cost: it adds more tooling complexity. Consider if your team be able deal this this before adopting.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jitendravyas",
+            "name": "Jitendra Vyas",
+            "id": 14206151,
+            "id_str": "14206151",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 770172920505241600,
+      "in_reply_to_status_id_str": "770172920505241600",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ]
+}

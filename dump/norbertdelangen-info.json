@@ -1,0 +1,113 @@
+{
+  "id": 745222684804583400,
+  "id_str": "745222684804583424",
+  "name": "Local Developer",
+  "screen_name": "LocalSourceNL",
+  "location": "Amsterdam, The Netherlands",
+  "profile_location": {
+    "id": "99cdab25eddd6bce",
+    "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+    "place_type": "unknown",
+    "name": "Amsterdam, The Netherlands",
+    "full_name": "Amsterdam, The Netherlands",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Shared Twitter account for Netherlands based developers with a new author every week. This weeks author - @norbertdelangen.  PM @operatino to book your week.",
+  "url": "https://t.co/DJXWfW9OSP",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/DJXWfW9OSP",
+          "expanded_url": "http://localsource.nl",
+          "display_url": "localsource.nl",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 116,
+  "friends_count": 1,
+  "listed_count": 9,
+  "created_at": "Tue Jun 21 11:51:48 +0000 2016",
+  "favourites_count": 20,
+  "utc_offset": 7200,
+  "time_zone": "Amsterdam",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 211,
+  "lang": "en",
+  "status": {
+    "created_at": "Mon Aug 29 08:29:55 +0000 2016",
+    "id": 770176642463502300,
+    "id_str": "770176642463502336",
+    "text": "@jitendravyas It does come with a cost: it adds more tooling complexity. Consider if your team be able deal this this before adopting.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "jitendravyas",
+          "name": "Jitendra Vyas",
+          "id": 14206151,
+          "id_str": "14206151",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": 770172920505241600,
+    "in_reply_to_status_id_str": "770172920505241600",
+    "in_reply_to_user_id": 745222684804583400,
+    "in_reply_to_user_id_str": "745222684804583424",
+    "in_reply_to_screen_name": "LocalSourceNL",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "F5F8FA",
+  "profile_background_image_url": null,
+  "profile_background_image_url_https": null,
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/769969170779934722/Xb-vpubK_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/769969170779934722/Xb-vpubK_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/745222684804583424/1472412521",
+  "profile_link_color": "2B7BB9",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": true,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+}
