@@ -438,3 +438,7 @@ tr {
 .tweet img {
   padding: 1em 0;
 }
+
+article img {
+  max-width: 100%;
+}
