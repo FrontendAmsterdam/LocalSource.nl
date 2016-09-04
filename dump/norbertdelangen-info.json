@@ -37,43 +37,32 @@
     }
   },
   "protected": false,
-  "followers_count": 116,
+  "followers_count": 119,
   "friends_count": 1,
-  "listed_count": 9,
+  "listed_count": 10,
   "created_at": "Tue Jun 21 11:51:48 +0000 2016",
   "favourites_count": 20,
   "utc_offset": 7200,
   "time_zone": "Amsterdam",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 211,
+  "statuses_count": 242,
   "lang": "en",
   "status": {
-    "created_at": "Mon Aug 29 08:29:55 +0000 2016",
-    "id": 770176642463502300,
-    "id_str": "770176642463502336",
-    "text": "@jitendravyas It does come with a cost: it adds more tooling complexity. Consider if your team be able deal this this before adopting.",
+    "created_at": "Wed Aug 31 07:55:03 +0000 2016",
+    "id": 770892645367418900,
+    "id_str": "770892645367418880",
+    "text": "This is great for creating vendor chunks / chunks with code that rarely changes.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "jitendravyas",
-          "name": "Jitendra Vyas",
-          "id": 14206151,
-          "id_str": "14206151",
-          "indices": [
-            0,
-            13
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-    "in_reply_to_status_id": 770172920505241600,
-    "in_reply_to_status_id_str": "770172920505241600",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 770891830909173800,
+    "in_reply_to_status_id_str": "770891830909173761",
     "in_reply_to_user_id": 745222684804583400,
     "in_reply_to_user_id_str": "745222684804583424",
     "in_reply_to_screen_name": "LocalSourceNL",

@@ -455,6 +455,2177 @@
       "favorited": false,
       "retweeted": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 11:34:44 +0000 2016",
+      "id": 770223152492404700,
+      "id_str": "770223152492404736",
+      "text": "Most api-services are microservices developed in product teams. Most in scala, some in .netCore, some in NodeJS. https://t.co/uWd1d3HWVo",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uWd1d3HWVo",
+            "expanded_url": "https://twitter.com/operatino/status/770189725273653248",
+            "display_url": "twitter.com/operatino/stat…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 770189725273653200,
+      "quoted_status_id_str": "770189725273653248",
+      "quoted_status": {
+        "created_at": "Mon Aug 29 09:21:54 +0000 2016",
+        "id": 770189725273653200,
+        "id_str": "770189725273653248",
+        "text": "@LocalSourceNL Are you building Node.js API's there as well? Tell us more about your current project.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 770167337509122000,
+        "in_reply_to_status_id_str": "770167337509122048",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 89017350,
+          "id_str": "89017350"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 11:36:53 +0000 2016",
+      "id": 770223695952486400,
+      "id_str": "770223695952486400",
+      "text": "@LocalSourceNL The team I work in, works on the SSR and clientside code for @wehkamp Product Overview &amp; Detail. Our current longterm goal...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "wehkamp",
+            "name": "wehkamp.nl",
+            "id": 39704408,
+            "id_str": "39704408",
+            "indices": [
+              76,
+              84
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770223152492404700,
+      "in_reply_to_status_id_str": "770223152492404736",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 11:38:12 +0000 2016",
+      "id": 770224024916025300,
+      "id_str": "770224024916025344",
+      "text": "@LocalSourceNL ...is migrating away from AngularJS on the clientside, and getting everything rendered isomophic|universal with React.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770223152492404700,
+      "in_reply_to_status_id_str": "770223152492404736",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 11:39:43 +0000 2016",
+      "id": 770224408262746100,
+      "id_str": "770224408262746112",
+      "text": "@LocalSourceNL SSR is already achieved with React. We're also looking into splitting the site up into microsites and creating a component...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770223152492404700,
+      "in_reply_to_status_id_str": "770223152492404736",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 11:40:30 +0000 2016",
+      "id": 770224604023558100,
+      "id_str": "770224604023558144",
+      "text": "@LocalSourceNL ...library for all these microsites. Goal is to be able to scale and maintain these microservices and sites independently.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770223152492404700,
+      "in_reply_to_status_id_str": "770223152492404736",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 11:51:42 +0000 2016",
+      "id": 770227422436425700,
+      "id_str": "770227422436425728",
+      "text": "For my current project, a few thirdparty scripts had a dependency on jQuery. Which led to developers using jQuery because it was there...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 11:58:01 +0000 2016",
+      "id": 770229012417417200,
+      "id_str": "770229012417417218",
+      "text": "Using jQuery in combination with Angular shouldn't be necessary! Force Angular to ignore jQuery with `ng-jq` https://t.co/ob1pW8mHp6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 770228840023126000,
+            "id_str": "770228840023126016",
+            "indices": [
+              109,
+              132
+            ],
+            "media_url": "http://pbs.twimg.com/media/CrBnDJVW8AA1aSP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CrBnDJVW8AA1aSP.jpg",
+            "url": "https://t.co/ob1pW8mHp6",
+            "display_url": "pic.twitter.com/ob1pW8mHp6",
+            "expanded_url": "https://twitter.com/LocalSourceNL/status/770229012417417218/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 978,
+                "h": 288,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 978,
+                "h": 288,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 770228840023126000,
+            "id_str": "770228840023126016",
+            "indices": [
+              109,
+              132
+            ],
+            "media_url": "http://pbs.twimg.com/media/CrBnDJVW8AA1aSP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CrBnDJVW8AA1aSP.jpg",
+            "url": "https://t.co/ob1pW8mHp6",
+            "display_url": "pic.twitter.com/ob1pW8mHp6",
+            "expanded_url": "https://twitter.com/LocalSourceNL/status/770229012417417218/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 978,
+                "h": 288,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 978,
+                "h": 288,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770227422436425700,
+      "in_reply_to_status_id_str": "770227422436425728",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 12:56:25 +0000 2016",
+      "id": 770243711854866400,
+      "id_str": "770243711854866432",
+      "text": "@operatino Yes, we do! We use `ReactDOMServer.renderToStaticMarkup` right now, because we do not have react clientside yet.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770225006152417300,
+      "in_reply_to_status_id_str": "770225006152417281",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 13:01:03 +0000 2016",
+      "id": 770244875086393300,
+      "id_str": "770244875086393344",
+      "text": "Question: Are you using ES201#, if so what stage? I have found Object spread to be immensely useful! (stage2)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 14:32:11 +0000 2016",
+      "id": 770267809590968300,
+      "id_str": "770267809590968320",
+      "text": "Yes, it's possible: by bootstrapping angular manually, you may provide options. https://t.co/GJizCYswKI https://t.co/SjBqyKM6kl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GJizCYswKI",
+            "expanded_url": "http://jsbin.com/jefusadexa/edit?html,output",
+            "display_url": "jsbin.com/jefusadexa/edi…",
+            "indices": [
+              80,
+              103
+            ]
+          },
+          {
+            "url": "https://t.co/SjBqyKM6kl",
+            "expanded_url": "https://twitter.com/operatino/status/770263042307264512",
+            "display_url": "twitter.com/operatino/stat…",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 770263042307264500,
+      "quoted_status_id_str": "770263042307264512",
+      "quoted_status": {
+        "created_at": "Mon Aug 29 14:13:14 +0000 2016",
+        "id": 770263042307264500,
+        "id_str": "770263042307264512",
+        "text": "@LocalSourceNL Is there a way to define this config outside HTML? Looks ugly to keep this kind of settings in templates...",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 770229012417417200,
+        "in_reply_to_status_id_str": "770229012417417218",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 89017350,
+          "id_str": "89017350"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 14:32:30 +0000 2016",
+      "id": 770267891858083800,
+      "id_str": "770267891858083841",
+      "text": "@LocalSourceNL https://t.co/6Huxfa8vBa",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 770267877689724900,
+            "id_str": "770267877689724928",
+            "indices": [
+              15,
+              38
+            ],
+            "media_url": "http://pbs.twimg.com/media/CrCKjb-XEAA_m9P.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CrCKjb-XEAA_m9P.jpg",
+            "url": "https://t.co/6Huxfa8vBa",
+            "display_url": "pic.twitter.com/6Huxfa8vBa",
+            "expanded_url": "https://twitter.com/LocalSourceNL/status/770267891858083841/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1068,
+                "h": 366,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 233,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1068,
+                "h": 366,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 770267877689724900,
+            "id_str": "770267877689724928",
+            "indices": [
+              15,
+              38
+            ],
+            "media_url": "http://pbs.twimg.com/media/CrCKjb-XEAA_m9P.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CrCKjb-XEAA_m9P.jpg",
+            "url": "https://t.co/6Huxfa8vBa",
+            "display_url": "pic.twitter.com/6Huxfa8vBa",
+            "expanded_url": "https://twitter.com/LocalSourceNL/status/770267891858083841/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1068,
+                "h": 366,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 233,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1068,
+                "h": 366,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770267809590968300,
+      "in_reply_to_status_id_str": "770267809590968320",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Aug 29 14:34:23 +0000 2016",
+      "id": 770268362534518800,
+      "id_str": "770268362534518784",
+      "text": "I've used Bootstrap, Foundation, Material-UI (react). I'm very hesitant in recommending any. For public facing... https://t.co/pP3NXVRZ2s",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pP3NXVRZ2s",
+            "expanded_url": "https://twitter.com/MLarchanka/status/770267401342611456",
+            "display_url": "twitter.com/MLarchanka/sta…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 770267401342611500,
+      "quoted_status_id_str": "770267401342611456",
+      "quoted_status": {
+        "created_at": "Mon Aug 29 14:30:34 +0000 2016",
+        "id": 770267401342611500,
+        "id_str": "770267401342611456",
+        "text": "@LocalSourceNL do you use any UI libraries (main job, pet-projects)? If yes, which one could you recommend for new projects?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 15528455,
+          "id_str": "15528455"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 14:36:23 +0000 2016",
+      "id": 770268865762881500,
+      "id_str": "770268865762881536",
+      "text": "@LocalSourceNL ...facing websites, I recommend NOT using one, pick some utilities from them maybe. Admin panel like things, most will do.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770268362534518800,
+      "in_reply_to_status_id_str": "770268362534518784",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 14:40:59 +0000 2016",
+      "id": 770270025206882300,
+      "id_str": "770270025206882304",
+      "text": "@MLarchanka @LocalSourceNL I liked Foundation over Bootstrap. Would I need one right now, I'd look for something using react + css-modules.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MLarchanka",
+            "name": "Mikhail Larchanka",
+            "id": 15528455,
+            "id_str": "15528455",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770268749693943800,
+      "in_reply_to_status_id_str": "770268749693943808",
+      "in_reply_to_user_id": 15528455,
+      "in_reply_to_user_id_str": "15528455",
+      "in_reply_to_screen_name": "MLarchanka",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 14:45:12 +0000 2016",
+      "id": 770271085304700900,
+      "id_str": "770271085304700928",
+      "text": "@MLarchanka What have you used, and what were the pros and cons you found?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MLarchanka",
+            "name": "Mikhail Larchanka",
+            "id": 15528455,
+            "id_str": "15528455",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770268749693943800,
+      "in_reply_to_status_id_str": "770268749693943808",
+      "in_reply_to_user_id": 15528455,
+      "in_reply_to_user_id_str": "15528455",
+      "in_reply_to_screen_name": "MLarchanka",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 14:48:12 +0000 2016",
+      "id": 770271841470513200,
+      "id_str": "770271841470513152",
+      "text": "@LocalSourceNL doing things in templates is rather normal in Angular, not a fan of it myself either.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770267809590968300,
+      "in_reply_to_status_id_str": "770267809590968320",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 15:05:03 +0000 2016",
+      "id": 770276081064669200,
+      "id_str": "770276081064669185",
+      "text": "RT @MLarchanka: @LocalSourceNL I had use Bootstrap a lot. Then I switched to Topcoat. Now I do use it. But prefer to write from the scratch.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MLarchanka",
+            "name": "Mikhail Larchanka",
+            "id": 15528455,
+            "id_str": "15528455",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              16,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 29 14:48:18 +0000 2016",
+        "id": 770271866896416800,
+        "id_str": "770271866896416768",
+        "text": "@LocalSourceNL I had use Bootstrap a lot. Then I switched to Topcoat. Now I do use it. But prefer to write from the scratch.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 770271085304700900,
+        "in_reply_to_status_id_str": "770271085304700928",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 15528455,
+          "id_str": "15528455"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 17:10:33 +0000 2016",
+      "id": 770307663284633600,
+      "id_str": "770307663284633600",
+      "text": "React takes the lead! https://t.co/rPzmGKGwyL",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rPzmGKGwyL",
+            "expanded_url": "https://twitter.com/real_css_tricks/status/770303964214681600",
+            "display_url": "twitter.com/real_css_trick…",
+            "indices": [
+              22,
+              45
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 770303964214681600,
+      "quoted_status_id_str": "770303964214681600",
+      "quoted_status": {
+        "created_at": "Mon Aug 29 16:55:51 +0000 2016",
+        "id": 770303964214681600,
+        "id_str": "770303964214681600",
+        "text": "State of JavaScript survey by @SachaGreif :: https://t.co/wB4ZucDbPU\n\nPreliminary results! https://t.co/yEyfsQR4WQ",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "SachaGreif",
+              "name": "Sacha Greif",
+              "id": 14261086,
+              "id_str": "14261086",
+              "indices": [
+                30,
+                41
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/wB4ZucDbPU",
+              "expanded_url": "http://stateofjs.com/",
+              "display_url": "stateofjs.com",
+              "indices": [
+                45,
+                68
+              ]
+            },
+            {
+              "url": "https://t.co/yEyfsQR4WQ",
+              "expanded_url": "https://medium.com/@sachagreif/the-state-of-javascript-front-end-frameworks-1a2d8a61510#.sicesbrgy",
+              "display_url": "medium.com/@sachagreif/th…",
+              "indices": [
+                91,
+                114
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 285019665,
+          "id_str": "285019665"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 51,
+        "favorite_count": 83,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 17:57:53 +0000 2016",
+      "id": 770319578228482000,
+      "id_str": "770319578228482048",
+      "text": "Need ready made React components or inspiration on how to build a pattern yourself, check this out: https://t.co/8NU97VuQGF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8NU97VuQGF",
+            "expanded_url": "https://github.com/brillout/awesome-react-components",
+            "display_url": "github.com/brillout/aweso…",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 29 20:16:14 +0000 2016",
+      "id": 770354394072252400,
+      "id_str": "770354394072252416",
+      "text": "Can anyone shed some light onto if Custom Elements offer any benefits for react-users? https://t.co/WZvc2ErEpB",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WZvc2ErEpB",
+            "expanded_url": "https://twitter.com/rob_dodson/status/770312111113330688",
+            "display_url": "twitter.com/rob_dodson/sta…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 770312111113330700,
+      "quoted_status_id_str": "770312111113330688",
+      "quoted_status": {
+        "created_at": "Mon Aug 29 17:28:13 +0000 2016",
+        "id": 770312111113330700,
+        "id_str": "770312111113330688",
+        "text": "I just published “The Case for Custom Elements: Part 1” https://t.co/49bH2i7JuW",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/49bH2i7JuW",
+              "expanded_url": "https://medium.com/p/the-case-for-custom-elements-part-1-65d807b4b439",
+              "display_url": "medium.com/p/the-case-for…",
+              "indices": [
+                56,
+                79
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://medium.com\" rel=\"nofollow\">Medium</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 41760382,
+          "id_str": "41760382"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 124,
+        "favorite_count": 228,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 30 09:56:43 +0000 2016",
+      "id": 770560876403429400,
+      "id_str": "770560876403429376",
+      "text": "React SSR for our biggest page (product overview) takes ±50ms https://t.co/YUV8areSJC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YUV8areSJC",
+            "expanded_url": "https://twitter.com/operatino/status/770512090964586496",
+            "display_url": "twitter.com/operatino/stat…",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 770512090964586500,
+      "quoted_status_id_str": "770512090964586496",
+      "quoted_status": {
+        "created_at": "Tue Aug 30 06:42:52 +0000 2016",
+        "id": 770512090964586500,
+        "id_str": "770512090964586496",
+        "text": "@LocalSourceNL so how do you like the performance, and how's the load?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 770252870117720000,
+        "in_reply_to_status_id_str": "770252870117720065",
+        "in_reply_to_user_id": 89017350,
+        "in_reply_to_user_id_str": "89017350",
+        "in_reply_to_screen_name": "operatino",
+        "user": {
+          "id": 89017350,
+          "id_str": "89017350"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 30 09:59:55 +0000 2016",
+      "id": 770561680912842800,
+      "id_str": "770561680912842752",
+      "text": "@LocalSourceNL Right now getting ±130 requests / minute https://t.co/1ZYYO8UGMz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 770561140233560000,
+            "id_str": "770561140233560064",
+            "indices": [
+              56,
+              79
+            ],
+            "media_url": "http://pbs.twimg.com/media/CrGVRkFXYAAwXc3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CrGVRkFXYAAwXc3.jpg",
+            "url": "https://t.co/1ZYYO8UGMz",
+            "display_url": "pic.twitter.com/1ZYYO8UGMz",
+            "expanded_url": "https://twitter.com/LocalSourceNL/status/770561680912842752/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 195,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 110,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1899,
+                "h": 308,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 770561140233560000,
+            "id_str": "770561140233560064",
+            "indices": [
+              56,
+              79
+            ],
+            "media_url": "http://pbs.twimg.com/media/CrGVRkFXYAAwXc3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CrGVRkFXYAAwXc3.jpg",
+            "url": "https://t.co/1ZYYO8UGMz",
+            "display_url": "pic.twitter.com/1ZYYO8UGMz",
+            "expanded_url": "https://twitter.com/LocalSourceNL/status/770561680912842752/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 195,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 110,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1899,
+                "h": 308,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770560876403429400,
+      "in_reply_to_status_id_str": "770560876403429376",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 30 10:42:13 +0000 2016",
+      "id": 770572325804765200,
+      "id_str": "770572325804765186",
+      "text": "@operatino @LocalSourceNL We don't do caching of pages. We're looking into component caching.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 770560876403429400,
+      "in_reply_to_status_id_str": "770560876403429376",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 30 11:46:12 +0000 2016",
+      "id": 770588427226058800,
+      "id_str": "770588427226058752",
+      "text": "I wish I could say we do streamed rendering, but we don't. It's on our roadmap. I hear https://t.co/I17rfwCJ4P can. https://t.co/E7mKAPDUKB",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/I17rfwCJ4P",
+            "expanded_url": "https://github.com/redfin/react-server",
+            "display_url": "github.com/redfin/react-s…",
+            "indices": [
+              87,
+              110
+            ]
+          },
+          {
+            "url": "https://t.co/E7mKAPDUKB",
+            "expanded_url": "https://twitter.com/operatino/status/770587167424929792",
+            "display_url": "twitter.com/operatino/stat…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 770587167424929800,
+      "quoted_status_id_str": "770587167424929792",
+      "quoted_status": {
+        "created_at": "Tue Aug 30 11:41:12 +0000 2016",
+        "id": 770587167424929800,
+        "id_str": "770587167424929792",
+        "text": "@LocalSourceNL do you use streamed rendering? or just a default renderer, that returns everything when it's completely ready?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 770560876403429400,
+        "in_reply_to_status_id_str": "770560876403429376",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 89017350,
+          "id_str": "89017350"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 30 11:48:21 +0000 2016",
+      "id": 770588968131977200,
+      "id_str": "770588968131977216",
+      "text": "@LocalSourceNL It'd be a great performance boost for us, currently we wait for all services to result data, and only then start rendering.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770588427226058800,
+      "in_reply_to_status_id_str": "770588427226058752",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 30 11:50:07 +0000 2016",
+      "id": 770589414510694400,
+      "id_str": "770589414510694400",
+      "text": "@LocalSourceNL I think with streamed rendering we could start rendering til we hit a UI part that needs data. Anyone has experience with it?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LocalSourceNL",
+            "name": "Local Developer",
+            "id": 745222684804583400,
+            "id_str": "745222684804583424",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770588427226058800,
+      "in_reply_to_status_id_str": "770588427226058752",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 30 12:34:36 +0000 2016",
+      "id": 770600605345783800,
+      "id_str": "770600605345783808",
+      "text": "2 instances are handling that, 275 request / minute atm. https://t.co/YLXk376SVJ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YLXk376SVJ",
+            "expanded_url": "https://twitter.com/operatino/status/770590779114946561",
+            "display_url": "twitter.com/operatino/stat…",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 770590779114946600,
+      "quoted_status_id_str": "770590779114946561",
+      "quoted_status": {
+        "created_at": "Tue Aug 30 11:55:33 +0000 2016",
+        "id": 770590779114946600,
+        "id_str": "770590779114946561",
+        "text": "@LocalSourceNL And how many node servers handling that? just one?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 770561680912842800,
+        "in_reply_to_status_id_str": "770561680912842752",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 89017350,
+          "id_str": "89017350"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 30 12:35:29 +0000 2016",
+      "id": 770600828998680600,
+      "id_str": "770600828998680576",
+      "text": "https://t.co/8vLtWNKZX3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 770600804357210100,
+            "id_str": "770600804357210112",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/CrG5WUdXgAAoFT0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CrG5WUdXgAAoFT0.jpg",
+            "url": "https://t.co/8vLtWNKZX3",
+            "display_url": "pic.twitter.com/8vLtWNKZX3",
+            "expanded_url": "https://twitter.com/LocalSourceNL/status/770600828998680576/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 120,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 212,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1915,
+                "h": 339,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 770600804357210100,
+            "id_str": "770600804357210112",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/CrG5WUdXgAAoFT0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CrG5WUdXgAAoFT0.jpg",
+            "url": "https://t.co/8vLtWNKZX3",
+            "display_url": "pic.twitter.com/8vLtWNKZX3",
+            "expanded_url": "https://twitter.com/LocalSourceNL/status/770600828998680576/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 120,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 212,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1915,
+                "h": 339,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770600605345783800,
+      "in_reply_to_status_id_str": "770600605345783808",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Aug 30 16:04:59 +0000 2016",
+      "id": 770653552394002400,
+      "id_str": "770653552394002432",
+      "text": "Awesome! Looking forward to it! https://t.co/5LuhOBFzZo",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5LuhOBFzZo",
+            "expanded_url": "https://twitter.com/rob_dodson/status/770643848997376001",
+            "display_url": "twitter.com/rob_dodson/sta…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 770643848997376000,
+      "quoted_status_id_str": "770643848997376001",
+      "quoted_status": {
+        "created_at": "Tue Aug 30 15:26:26 +0000 2016",
+        "id": 770643848997376000,
+        "id_str": "770643848997376001",
+        "text": "@operatino @LocalSourceNL I'll be covering this a bit more in Part 2",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "operatino",
+              "name": "Robert Haritonov",
+              "id": 89017350,
+              "id_str": "89017350",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Local Developer",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                11,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 770513898801946600,
+        "in_reply_to_status_id_str": "770513898801946624",
+        "in_reply_to_user_id": 89017350,
+        "in_reply_to_user_id_str": "89017350",
+        "in_reply_to_screen_name": "operatino",
+        "user": {
+          "id": 41760382,
+          "id_str": "41760382"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 31 07:51:49 +0000 2016",
+      "id": 770891830909173800,
+      "id_str": "770891830909173761",
+      "text": "Want to code-split webpack bundles more then just a single commons chunk? Use the CommonsChunkPlugin multiple times: https://t.co/jSjiWm9Yzn",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jSjiWm9Yzn",
+            "expanded_url": "https://github.com/ndelangen/webpack-common-splitting",
+            "display_url": "github.com/ndelangen/webp…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 31 07:55:03 +0000 2016",
+      "id": 770892645367418900,
+      "id_str": "770892645367418880",
+      "text": "This is great for creating vendor chunks / chunks with code that rarely changes.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 770891830909173800,
+      "in_reply_to_status_id_str": "770891830909173761",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }
