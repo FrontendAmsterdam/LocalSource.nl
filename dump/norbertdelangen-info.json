@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 119,
+  "followers_count": 120,
   "friends_count": 1,
   "listed_count": 10,
   "created_at": "Tue Jun 21 11:51:48 +0000 2016",
@@ -46,26 +46,37 @@
   "time_zone": "Amsterdam",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 242,
+  "statuses_count": 243,
   "lang": "en",
   "status": {
-    "created_at": "Wed Aug 31 07:55:03 +0000 2016",
-    "id": 770892645367418900,
-    "id_str": "770892645367418880",
-    "text": "This is great for creating vendor chunks / chunks with code that rarely changes.",
+    "created_at": "Sun Sep 04 22:15:06 +0000 2016",
+    "id": 772558633775366100,
+    "id_str": "772558633775366144",
+    "text": "Goodbye everyone, sorry I wasn't active last few days. Next week's author is @stefanomasini .\nLooking forward to his insights!",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "stefanomasini",
+          "name": "stefanomasini",
+          "id": 14652647,
+          "id_str": "14652647",
+          "indices": [
+            77,
+            91
+          ]
+        }
+      ],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 770891830909173800,
-    "in_reply_to_status_id_str": "770891830909173761",
-    "in_reply_to_user_id": 745222684804583400,
-    "in_reply_to_user_id_str": "745222684804583424",
-    "in_reply_to_screen_name": "LocalSourceNL",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
