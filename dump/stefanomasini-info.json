@@ -26,65 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 122,
+  "followers_count": 129,
   "friends_count": 1,
-  "listed_count": 16,
+  "listed_count": 21,
   "created_at": "Tue Jun 21 11:51:48 +0000 2016",
-  "favourites_count": 20,
+  "favourites_count": 22,
   "utc_offset": 7200,
   "time_zone": "Amsterdam",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 253,
+  "statuses_count": 298,
   "lang": "en",
   "status": {
-    "created_at": "Mon Sep 05 07:35:38 +0000 2016",
-    "id": 772699695839842300,
-    "id_str": "772699695839842304",
-    "text": "Sorry no. I had to bang my head and learn #Relay the hard way. We're missing a best-practices book in this space. https://t.co/4Flc668It1",
+    "created_at": "Sat Sep 10 17:59:56 +0000 2016",
+    "id": 774668747693035500,
+    "id_str": "774668747693035520",
+    "text": "@operatino when are you gonna re-run the stats of localsource.nl? You made me curious now. :-)",
     "truncated": false,
     "entities": {
-      "hashtags": [
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
         {
-          "text": "Relay",
+          "screen_name": "operatino",
+          "name": "Robert Haritonov",
+          "id": 89017350,
+          "id_str": "89017350",
           "indices": [
-            42,
-            48
+            0,
+            10
           ]
         }
       ],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/4Flc668It1",
-          "expanded_url": "https://twitter.com/operatino/status/772697055882014720",
-          "display_url": "twitter.com/operatino/stat…",
-          "indices": [
-            114,
-            137
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": 89017350,
+    "in_reply_to_user_id_str": "89017350",
+    "in_reply_to_screen_name": "operatino",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 772697055882014700,
-    "quoted_status_id_str": "772697055882014720",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "en"
   },
   "contributors_enabled": false,
