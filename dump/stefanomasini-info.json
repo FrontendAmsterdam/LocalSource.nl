@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 129,
+  "followers_count": 127,
   "friends_count": 1,
   "listed_count": 21,
   "created_at": "Tue Jun 21 11:51:48 +0000 2016",
@@ -35,26 +35,26 @@
   "time_zone": "Amsterdam",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 298,
+  "statuses_count": 303,
   "lang": "en",
   "status": {
-    "created_at": "Sat Sep 10 17:59:56 +0000 2016",
-    "id": 774668747693035500,
-    "id_str": "774668747693035520",
-    "text": "@operatino when are you gonna re-run the stats of localsource.nl? You made me curious now. :-)",
+    "created_at": "Sun Sep 11 16:55:53 +0000 2016",
+    "id": 775015013996265500,
+    "id_str": "775015013996265477",
+    "text": "Ok, it was a fun week! Thank you all, you've been a great audience! Next up is @kureevalexey. Have fun! Ciao",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "operatino",
-          "name": "Robert Haritonov",
-          "id": 89017350,
-          "id_str": "89017350",
+          "screen_name": "kureevalexey",
+          "name": "Alexey Kureev",
+          "id": 860273317,
+          "id_str": "860273317",
           "indices": [
-            0,
-            10
+            79,
+            92
           ]
         }
       ],
@@ -63,17 +63,17 @@
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": 89017350,
-    "in_reply_to_user_id_str": "89017350",
-    "in_reply_to_screen_name": "operatino",
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
+    "favorite_count": 3,
+    "favorited": true,
     "retweeted": false,
     "lang": "en"
   },

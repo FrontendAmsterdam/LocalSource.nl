@@ -2712,6 +2712,212 @@
       "favorited": false,
       "retweeted": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Sat Sep 10 19:46:48 +0000 2016",
+      "id": 774695641670938600,
+      "id_str": "774695641670938624",
+      "text": "cAdvisor: a very simple monitoring solution for #Docker. A must have if you're running containers at small scale https://t.co/DW8Ha5H4A9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Docker",
+            "indices": [
+              48,
+              55
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DW8Ha5H4A9",
+            "expanded_url": "https://github.com/google/cadvisor",
+            "display_url": "github.com/google/cadvisor",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Sep 10 19:49:10 +0000 2016",
+      "id": 774696234388971500,
+      "id_str": "774696234388971520",
+      "text": "I'll just say it: if the code is good quality, a couple of console.logs will get you a long way, without needing a full blown debugger.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Sep 10 19:51:41 +0000 2016",
+      "id": 774696869092061200,
+      "id_str": "774696869092061184",
+      "text": "My favourite editor: Vi. My favourite IDE: @intellijidea. If it reacts fast, it doesn't need to be terse.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "intellijidea",
+            "name": "IntelliJ IDEA",
+            "id": 24160034,
+            "id_str": "24160034",
+            "indices": [
+              43,
+              56
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Sep 11 09:24:54 +0000 2016",
+      "id": 774901520743669800,
+      "id_str": "774901520743669760",
+      "text": "True. But not writing tests at all is like getting a loan. You'll eventually have to pay it back, hopefully without too much interest.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Sep 11 16:55:53 +0000 2016",
+      "id": 775015013996265500,
+      "id_str": "775015013996265477",
+      "text": "Ok, it was a fun week! Thank you all, you've been a great audience! Next up is @kureevalexey. Have fun! Ciao",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kureevalexey",
+            "name": "Alexey Kureev",
+            "id": 860273317,
+            "id_str": "860273317",
+            "indices": [
+              79,
+              92
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }
