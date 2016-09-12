@@ -1,0 +1,92 @@
+{
+  "mentions": [
+    {
+      "created_at": "Mon Sep 12 07:40:50 +0000 2016",
+      "id": 775237720046264300,
+      "id_str": "775237720046264320",
+      "text": "@operatino now we're trying to solve a symlink problem (watchman can't process it, so we have to resolve them in advance)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 775235255791910900,
+      "in_reply_to_status_id_str": "775235255791910912",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Sep 12 07:48:39 +0000 2016",
+      "id": 775239686784741400,
+      "id_str": "775239686784741376",
+      "text": "@operatino I also work on one pet project to illustrate RN bridge internals. I think it'll be a topic for my next talk",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 775237720046264300,
+      "in_reply_to_status_id_str": "775237720046264320",
+      "in_reply_to_user_id": 745222684804583400,
+      "in_reply_to_user_id_str": "745222684804583424",
+      "in_reply_to_screen_name": "LocalSourceNL",
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ]
+}
