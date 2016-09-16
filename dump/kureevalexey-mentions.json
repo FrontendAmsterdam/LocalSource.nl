@@ -87,6 +87,247 @@
       "favorited": false,
       "retweeted": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Mon Sep 12 10:08:16 +0000 2016",
+      "id": 775274821580128300,
+      "id_str": "775274821580128256",
+      "text": "@operatino I have a Node.JS Clojure AWS event driven microservice position in London. Can we speak about the dets? https://t.co/4OeSFvqfqP",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4OeSFvqfqP",
+            "expanded_url": "http://bit.ly/2bYD432",
+            "display_url": "bit.ly/2bYD432",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 240830240,
+        "id_str": "240830240"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Sep 14 14:43:48 +0000 2016",
+      "id": 776068939252109300,
+      "id_str": "776068939252109312",
+      "text": "@operatino applause sound is ridiculous 😂",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 776067960511295500,
+      "in_reply_to_status_id_str": "776067960511295488",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 98982330,
+        "id_str": "98982330"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Sep 14 15:02:07 +0000 2016",
+      "id": 776073549115191300,
+      "id_str": "776073549115191296",
+      "text": "@operatino он с ошибками",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 776067960511295500,
+      "in_reply_to_status_id_str": "776067960511295488",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 236944972,
+        "id_str": "236944972"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 14 15:45:52 +0000 2016",
+      "id": 776084560417329200,
+      "id_str": "776084560417329153",
+      "text": "@operatino the app is very cool btw 😍",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 776076373261680600,
+      "in_reply_to_status_id_str": "776076373261680640",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 98982330,
+        "id_str": "98982330"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Sep 14 20:16:52 +0000 2016",
+      "id": 776152759657697300,
+      "id_str": "776152759657697282",
+      "text": "@MacYET @operatino Wow! I'm lost for words. These guys seem to be digging a bigger ditch for themselves every single day right now.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MacYET",
+            "name": "Andreas Jung",
+            "id": 18839261,
+            "id_str": "18839261",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              8,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 775535642793087000,
+      "in_reply_to_status_id_str": "775535642793086976",
+      "in_reply_to_user_id": 18839261,
+      "in_reply_to_user_id_str": "18839261",
+      "in_reply_to_screen_name": "MacYET",
+      "user": {
+        "id": 2532735856,
+        "id_str": "2532735856"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }
