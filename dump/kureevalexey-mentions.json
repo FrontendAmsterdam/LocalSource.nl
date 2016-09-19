@@ -328,6 +328,50 @@
       "favorited": false,
       "retweeted": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Fri Sep 16 16:55:09 +0000 2016",
+      "id": 776826770171592700,
+      "id_str": "776826770171592705",
+      "text": "@operatino I have and it’s very good.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 776826156414885900,
+      "in_reply_to_status_id_str": "776826156414885889",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 440162657,
+        "id_str": "440162657"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }

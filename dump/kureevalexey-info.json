@@ -1,7 +1,7 @@
 {
   "id": 745222684804583400,
   "id_str": "745222684804583424",
-  "name": "Local Developer",
+  "name": "Daijirō - Local Dev",
   "screen_name": "LocalSourceNL",
   "location": "Amsterdam, The Netherlands",
   "profile_location": {
@@ -16,7 +16,7 @@
     "bounding_box": null,
     "attributes": {}
   },
-  "description": "Shared Twitter account for Netherlands based developers with a new author every week. This weeks author - @kureevalexey. PM @operatino to book your week.",
+  "description": "Shared Twitter account for Netherlands based developers with a new author every week. This weeks author - @watilde. PM @operatino to book your week.",
   "url": "https://t.co/DJXWfW9OSP",
   "entities": {
     "url": {
@@ -39,49 +39,38 @@
   "protected": false,
   "followers_count": 133,
   "friends_count": 1,
-  "listed_count": 25,
+  "listed_count": 27,
   "created_at": "Tue Jun 21 11:51:48 +0000 2016",
-  "favourites_count": 27,
+  "favourites_count": 28,
   "utc_offset": 7200,
   "time_zone": "Amsterdam",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 327,
+  "statuses_count": 335,
   "lang": "en",
   "status": {
-    "created_at": "Thu Sep 15 22:42:59 +0000 2016",
-    "id": 776551919808634900,
-    "id_str": "776551919808634880",
-    "text": "Check out these awesome articles  about types by @thejameskyle  https://t.co/rlOoGBCAC8",
+    "created_at": "Mon Sep 19 11:00:20 +0000 2016",
+    "id": 777824639649189900,
+    "id_str": "777824639649189888",
+    "text": "When you need to support i18n in JavaScript, what kind of way do you usually use? Intl.js is one of the good choices https://t.co/58jWjPg4hm",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "thejameskyle",
-          "name": "James Kyle",
-          "id": 27802872,
-          "id_str": "27802872",
-          "indices": [
-            49,
-            62
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/rlOoGBCAC8",
-          "expanded_url": "https://twitter.com/thejameskyle/status/776544940117504000",
-          "display_url": "twitter.com/thejameskyle/s…",
+          "url": "https://t.co/58jWjPg4hm",
+          "expanded_url": "https://github.com/andyearnshaw/Intl.js/",
+          "display_url": "github.com/andyearnshaw/I…",
           "indices": [
-            64,
-            87
+            117,
+            140
           ]
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -91,11 +80,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 776544940117504000,
-    "quoted_status_id_str": "776544940117504000",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -108,8 +95,8 @@
   "profile_background_image_url": null,
   "profile_background_image_url_https": null,
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/775230155606327296/qJC6Io4a_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/775230155606327296/qJC6Io4a_normal.jpg",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/777780020374867968/HFpuPqac_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/777780020374867968/HFpuPqac_normal.jpg",
   "profile_banner_url": "https://pbs.twimg.com/profile_banners/745222684804583424/1472412521",
   "profile_link_color": "2B7BB9",
   "profile_sidebar_border_color": "C0DEED",
