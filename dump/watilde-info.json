@@ -39,30 +39,41 @@
   "protected": false,
   "followers_count": 133,
   "friends_count": 1,
-  "listed_count": 27,
+  "listed_count": 26,
   "created_at": "Tue Jun 21 11:51:48 +0000 2016",
   "favourites_count": 28,
   "utc_offset": 7200,
   "time_zone": "Amsterdam",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 335,
+  "statuses_count": 354,
   "lang": "en",
   "status": {
-    "created_at": "Mon Sep 19 11:00:20 +0000 2016",
-    "id": 777824639649189900,
-    "id_str": "777824639649189888",
-    "text": "When you need to support i18n in JavaScript, what kind of way do you usually use? Intl.js is one of the good choices https://t.co/58jWjPg4hm",
-    "truncated": false,
+    "created_at": "Thu Sep 22 11:24:04 +0000 2016",
+    "id": 778917776895475700,
+    "id_str": "778917776895475712",
+    "text": "I've read the use cases in the docs, and the trace(by @RisingStack) looks rad product. This tutorial is also helpfu… https://t.co/ktyOoDlrCN",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "RisingStack",
+          "name": "RisingStack",
+          "id": 2383288555,
+          "id_str": "2383288555",
+          "indices": [
+            54,
+            66
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/58jWjPg4hm",
-          "expanded_url": "https://github.com/andyearnshaw/Intl.js/",
-          "display_url": "github.com/andyearnshaw/I…",
+          "url": "https://t.co/ktyOoDlrCN",
+          "expanded_url": "https://twitter.com/i/web/status/778917776895475712",
+          "display_url": "twitter.com/i/web/status/7…",
           "indices": [
             117,
             140
@@ -80,9 +91,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 778903726727827500,
+    "quoted_status_id_str": "778903726727827456",
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
