@@ -329,6 +329,583 @@
       "favorited": false,
       "retweeted": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Fri Sep 23 10:09:23 +0000 2016",
+      "id": 779261370948735000,
+      "id_str": "779261370948734976",
+      "text": "@operatino @WebDevLiberty Hi Robert, sure we can assist you. Can we DM and discuss in detail. Kindly follow back. Thanks :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "WebDevLiberty",
+            "name": "Liberty Global Web",
+            "id": 3315505173,
+            "id_str": "3315505173",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 779249600007987200,
+      "in_reply_to_status_id_str": "779249600007987200",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 3252934681,
+        "id_str": "3252934681"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Sep 23 10:20:26 +0000 2016",
+      "id": 779264153148010500,
+      "id_str": "779264153148010496",
+      "text": "@operatino Robert, I am talking about a remote dedicated developer. Just suggest u to kindly get over a call &amp; see if we can be a fit for u.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 779263683587366900,
+      "in_reply_to_status_id_str": "779263683587366914",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 3252934681,
+        "id_str": "3252934681"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Sep 23 10:36:59 +0000 2016",
+      "id": 779268317735452700,
+      "id_str": "779268317735452672",
+      "text": "@operatino Grint 😄",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 779249600007987200,
+      "in_reply_to_status_id_str": "779249600007987200",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 287868812,
+        "id_str": "287868812"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Sep 23 11:26:00 +0000 2016",
+      "id": 779280653368094700,
+      "id_str": "779280653368094720",
+      "text": "@operatino Да, только зачем? И в такой грубой eval форме. Почему не просто комментарий, который uglify бы убрал в продакшн-билде?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 779279377758613500,
+      "in_reply_to_status_id_str": "779279377758613504",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 14831411,
+        "id_str": "14831411"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Sep 23 11:35:42 +0000 2016",
+      "id": 779283091386871800,
+      "id_str": "779283091386871808",
+      "text": "@operatino Contact me at layla.btech@gmail.com to discuss further or \"bacancy\"- Skype. I would like to work with you!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 779263683587366900,
+      "in_reply_to_status_id_str": "779263683587366914",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 2810857664,
+        "id_str": "2810857664"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Sep 23 11:50:45 +0000 2016",
+      "id": 779286881846628400,
+      "id_str": "779286881846628352",
+      "text": "@Seleckis @operatino это уже webpack ставит на весь модуль, так быстрее собирать и пересобирать билд https://t.co/rcUoNkLm2I",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Seleckis",
+            "name": "Seleckis",
+            "id": 14831411,
+            "id_str": "14831411",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              10,
+              20
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rcUoNkLm2I",
+            "expanded_url": "https://webpack.github.io/docs/configuration.html#devtool",
+            "display_url": "webpack.github.io/docs/configura…",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 779280653368094700,
+      "in_reply_to_status_id_str": "779280653368094720",
+      "in_reply_to_user_id": 14831411,
+      "in_reply_to_user_id_str": "14831411",
+      "in_reply_to_screen_name": "Seleckis",
+      "user": {
+        "id": 99717399,
+        "id_str": "99717399"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Sep 23 11:52:57 +0000 2016",
+      "id": 779287435079450600,
+      "id_str": "779287435079450627",
+      "text": "@fliptheweb @operatino да я уже нашел, что для прода нужно убирать devtool в конфиге",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fliptheweb",
+            "name": "Artur Kornakov",
+            "id": 99717399,
+            "id_str": "99717399",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              12,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 779286881846628400,
+      "in_reply_to_status_id_str": "779286881846628352",
+      "in_reply_to_user_id": 99717399,
+      "in_reply_to_user_id_str": "99717399",
+      "in_reply_to_screen_name": "fliptheweb",
+      "user": {
+        "id": 14831411,
+        "id_str": "14831411"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Sep 23 18:34:08 +0000 2016",
+      "id": 779388395319504900,
+      "id_str": "779388395319504896",
+      "text": "@operatino @WebDevLiberty i am interested, please go through my profile at https://t.co/uC1Iy8qzo6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "WebDevLiberty",
+            "name": "Liberty Global Web",
+            "id": 3315505173,
+            "id_str": "3315505173",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uC1Iy8qzo6",
+            "expanded_url": "http://www.iamrobin.in",
+            "display_url": "iamrobin.in",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 779249600007987200,
+      "in_reply_to_status_id_str": "779249600007987200",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 170213525,
+        "id_str": "170213525"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Sep 24 12:00:10 +0000 2016",
+      "id": 779651639422619600,
+      "id_str": "779651639422619648",
+      "text": "The Response Times - Daily Update https://t.co/eOA3YPd7iq - top stories by @slightlylate, @operatino, @dap6000",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "slightlylate",
+            "name": "Alex Russell",
+            "id": 229237555,
+            "id_str": "229237555",
+            "indices": [
+              75,
+              88
+            ]
+          },
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              90,
+              100
+            ]
+          },
+          {
+            "screen_name": "dap6000",
+            "name": "Derek Pennycuff",
+            "id": 20437262,
+            "id_str": "20437262",
+            "indices": [
+              102,
+              110
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eOA3YPd7iq",
+            "expanded_url": "http://tweetedtimes.com/v/10101?s=rgp",
+            "display_url": "tweetedtimes.com/v/10101?s=rgp",
+            "indices": [
+              34,
+              57
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.tweetedtimes.com\" rel=\"nofollow\">The Tweeted Times</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3979594408,
+        "id_str": "3979594408"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Sep 25 12:01:19 +0000 2016",
+      "id": 780014316603007000,
+      "id_str": "780014316603006976",
+      "text": "@operatino Hoi Robert, who is the next local developer? I’d like to mention about the person before my week is finish :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 93163928,
+        "id_str": "93163928"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Sep 25 13:56:11 +0000 2016",
+      "id": 780043221074337800,
+      "id_str": "780043221074337792",
+      "text": "@operatino Ok sure thing! My las tweet will be the shout out for new authors :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 780042415596077000,
+      "in_reply_to_status_id_str": "780042415596077058",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 93163928,
+        "id_str": "93163928"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }

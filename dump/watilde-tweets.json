@@ -1192,6 +1192,554 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Fri Sep 23 07:42:36 +0000 2016",
+      "id": 779224431017287700,
+      "id_str": "779224431017287680",
+      "text": "🎉 \"TypeScript 2.0 is now available!\" https://t.co/q3ADNRRzOt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/q3ADNRRzOt",
+            "expanded_url": "https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/",
+            "display_url": "blogs.msdn.microsoft.com/typescript/201…",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Sep 23 07:43:25 +0000 2016",
+      "id": 779224635875418100,
+      "id_str": "779224635875418112",
+      "text": "Wow webpack is also almost version 2 now? https://t.co/V9uN3wVXLX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/V9uN3wVXLX",
+            "expanded_url": "https://webpack.github.io/docs/roadmap.html#2",
+            "display_url": "webpack.github.io/docs/roadmap.h…",
+            "indices": [
+              42,
+              65
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Sep 23 07:44:17 +0000 2016",
+      "id": 779224853727576000,
+      "id_str": "779224853727576064",
+      "text": "angular2 has been released as well \"Angular, version 2: proprioception-reinforcement\" https://t.co/Odja4xdUQy",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Odja4xdUQy",
+            "expanded_url": "http://angularjs.blogspot.nl/2016/09/angular2-final.html",
+            "display_url": "angularjs.blogspot.nl/2016/09/angula…",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Sep 23 07:52:37 +0000 2016",
+      "id": 779226954667024400,
+      "id_str": "779226954667024384",
+      "text": "Awesome! This plugin is interesting - https://t.co/km6v8PjQO2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/km6v8PjQO2",
+            "expanded_url": "https://twitter.com/TheLarkInn/status/778935913107730432",
+            "display_url": "twitter.com/TheLarkInn/sta…",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 778935913107730400,
+      "quoted_status_id_str": "778935913107730432",
+      "quoted_status": {
+        "created_at": "Thu Sep 22 12:36:08 +0000 2016",
+        "id": 778935913107730400,
+        "id_str": "778935913107730432",
+        "text": "@LocalSourceNL yeah!! We did something similar for #webpack https://t.co/p49OqLXw6X",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "webpack",
+              "indices": [
+                51,
+                59
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LocalSourceNL",
+              "name": "Daijirō - Local Dev",
+              "id": 745222684804583400,
+              "id_str": "745222684804583424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/p49OqLXw6X",
+              "expanded_url": "https://github.com/TheLarkInn/V8LazyParseWebpackPlugin",
+              "display_url": "github.com/TheLarkInn/V8L…",
+              "indices": [
+                60,
+                83
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 778346463554367500,
+        "in_reply_to_status_id_str": "778346463554367488",
+        "in_reply_to_user_id": 745222684804583400,
+        "in_reply_to_user_id_str": "745222684804583424",
+        "in_reply_to_screen_name": "LocalSourceNL",
+        "user": {
+          "id": 17607249,
+          "id_str": "17607249"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "3af2a75dbeb10500",
+          "url": "https://api.twitter.com/1.1/geo/id/3af2a75dbeb10500.json",
+          "place_type": "city",
+          "name": "Lincoln",
+          "full_name": "Lincoln, NE",
+          "country_code": "US",
+          "country": "United States",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -96.806031,
+                  40.710053
+                ],
+                [
+                  -96.5870939,
+                  40.710053
+                ],
+                [
+                  -96.5870939,
+                  40.896417
+                ],
+                [
+                  -96.806031,
+                  40.896417
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Sep 23 09:23:11 +0000 2016",
+      "id": 779249743432151000,
+      "id_str": "779249743432151040",
+      "text": "RT @operatino: Looking for a Full Stack JavaScript and React Engineer into my development team at @WebDevLiberty (relocation or NL) https:/…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "WebDevLiberty",
+            "name": "Liberty Global Web",
+            "id": 3315505173,
+            "id_str": "3315505173",
+            "indices": [
+              98,
+              112
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Sep 23 09:22:37 +0000 2016",
+        "id": 779249600007987200,
+        "id_str": "779249600007987200",
+        "text": "Looking for a Full Stack JavaScript and React Engineer into my development team at @WebDevLiberty (relocation or NL) https://t.co/GouUiR7b5G",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "WebDevLiberty",
+              "name": "Liberty Global Web",
+              "id": 3315505173,
+              "id_str": "3315505173",
+              "indices": [
+                83,
+                97
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/GouUiR7b5G",
+              "expanded_url": "https://medium.com/@WebDevLiberty/looking-for-full-stack-javascript-and-react-developer-3ef46844bc6c",
+              "display_url": "medium.com/@WebDevLiberty…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 89017350,
+          "id_str": "89017350"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 22,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Sep 23 09:30:30 +0000 2016",
+      "id": 779251584194768900,
+      "id_str": "779251584194768897",
+      "text": "How JavaScript Engine works🤔 \"Alejandro Oviedo: Demystifying (JavaScript) engines - JSConf Iceland 2016\" https://t.co/gvV8xNEKO5",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gvV8xNEKO5",
+            "expanded_url": "https://www.youtube.com/watch?v=yJB5k8B0MTQ",
+            "display_url": "youtube.com/watch?v=yJB5k8…",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Sep 23 12:41:21 +0000 2016",
+      "id": 779299615115993100,
+      "id_str": "779299615115993088",
+      "text": "\"The Progress of Node.js a Year Post Node.js and io.js Merge and Where the Technology is Going\" https://t.co/NpgbIb3YLH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NpgbIb3YLH",
+            "expanded_url": "https://medium.com/@nodejs/the-progress-of-node-js-a-year-post-node-js-and-io-js-merge-and-where-the-technology-is-going-f168ce9ec8ee#.sir1yk82w",
+            "display_url": "medium.com/@nodejs/the-pr…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Sep 25 12:09:30 +0000 2016",
+      "id": 780016376396259300,
+      "id_str": "780016376396259328",
+      "text": "It's the time to say goodbye from this account. Thank y'all so much for having some conversation with me! It was so much fun😆",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Sep 25 12:12:52 +0000 2016",
+      "id": 780017221754089500,
+      "id_str": "780017221754089472",
+      "text": "I often tweet about the technical stuff and my adventure like I've been tweeting at here. If you liked them, check my account plz 👉 @watilde",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "watilde",
+            "name": "dazy",
+            "id": 93163928,
+            "id_str": "93163928",
+            "indices": [
+              132,
+              140
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "id": 745222684804583400,
   "id_str": "745222684804583424",
-  "name": "Daijirō - Local Dev",
+  "name": "Local Developer",
   "screen_name": "LocalSourceNL",
   "location": "Amsterdam, The Netherlands",
   "profile_location": {
@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 133,
+  "followers_count": 135,
   "friends_count": 1,
   "listed_count": 26,
   "created_at": "Tue Jun 21 11:51:48 +0000 2016",
@@ -46,40 +46,30 @@
   "time_zone": "Amsterdam",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 354,
+  "statuses_count": 362,
   "lang": "en",
   "status": {
-    "created_at": "Thu Sep 22 11:24:04 +0000 2016",
-    "id": 778917776895475700,
-    "id_str": "778917776895475712",
-    "text": "I've read the use cases in the docs, and the trace(by @RisingStack) looks rad product. This tutorial is also helpfu… https://t.co/ktyOoDlrCN",
-    "truncated": true,
+    "created_at": "Sun Sep 25 12:12:52 +0000 2016",
+    "id": 780017221754089500,
+    "id_str": "780017221754089472",
+    "text": "I often tweet about the technical stuff and my adventure like I've been tweeting at here. If you liked them, check my account plz 👉 @watilde",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "RisingStack",
-          "name": "RisingStack",
-          "id": 2383288555,
-          "id_str": "2383288555",
+          "screen_name": "watilde",
+          "name": "dazy",
+          "id": 93163928,
+          "id_str": "93163928",
           "indices": [
-            54,
-            66
-          ]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/ktyOoDlrCN",
-          "expanded_url": "https://twitter.com/i/web/status/778917776895475712",
-          "display_url": "twitter.com/i/web/status/7…",
-          "indices": [
-            117,
+            132,
             140
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -91,14 +81,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 778903726727827500,
-    "quoted_status_id_str": "778903726727827456",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
+    "favorite_count": 2,
+    "favorited": true,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "en"
   },
   "contributors_enabled": false,
