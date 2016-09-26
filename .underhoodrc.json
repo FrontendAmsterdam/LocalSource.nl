@@ -14,8 +14,8 @@
   "site": {
     "title": "LocalSourceNL Home",
     "description": "Shared twitter account with a new author each week for NL based developers and IT community activists.",
-    "feed_url": "https://localsource.nl/rss.xml",
-    "site_url": "https://localsource.nl/",
+    "feed_url": "http://localsource.nl/rss.xml",
+    "site_url": "http://localsource.nl/",
     "managingEditor": "r@rhr.me (Robert Haritonov)",
     "webMaster": "r@rhr.me (Robert Haritonov)",
     "copyright": "MIT",
