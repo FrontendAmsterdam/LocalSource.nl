@@ -1,3 +1,755 @@
 {
-  "mentions": []
+  "mentions": [
+    {
+      "created_at": "Tue Oct 04 08:21:11 +0000 2016",
+      "id": 783220408296230900,
+      "id_str": "783220408296230912",
+      "text": "@operatino both options are viable, actually. As soon as it is easy to throw away your spaghetti, the strategy will work",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 783213578501357600,
+      "in_reply_to_status_id_str": "783213578501357568",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 170772902,
+        "id_str": "170772902"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Oct 04 16:28:17 +0000 2016",
+      "id": 783342990312017900,
+      "id_str": "783342990312017920",
+      "text": "@rodneyrehm maybe @operatino could help?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rodneyrehm",
+            "name": "Rodney Rehm",
+            "id": 105166252,
+            "id_str": "105166252",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              18,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 783332173625581600,
+      "in_reply_to_status_id_str": "783332173625581568",
+      "in_reply_to_user_id": 105166252,
+      "in_reply_to_user_id_str": "105166252",
+      "in_reply_to_screen_name": "rodneyrehm",
+      "user": {
+        "id": 216326970,
+        "id_str": "216326970"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Oct 04 20:53:20 +0000 2016",
+      "id": 783409692852772900,
+      "id_str": "783409692852772864",
+      "text": "@thekitze @operatino wow, that came across as unconstructive, unhelpful &amp; - to be frank - arrogant.  What that the intention?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "thekitze",
+            "name": "kitze.io",
+            "id": 50339173,
+            "id_str": "50339173",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              10,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 783396774291640300,
+      "in_reply_to_status_id_str": "783396774291640320",
+      "in_reply_to_user_id": 50339173,
+      "in_reply_to_user_id_str": "50339173",
+      "in_reply_to_screen_name": "thekitze",
+      "user": {
+        "id": 17965730,
+        "id_str": "17965730"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Oct 04 20:57:16 +0000 2016",
+      "id": 783410682494615600,
+      "id_str": "783410682494615552",
+      "text": "@beesman @operatino Sorry if it came across like that. I read too many negative tweets and comments today. I will delete it.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beesman",
+            "name": "Dan Jackson",
+            "id": 17965730,
+            "id_str": "17965730",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              9,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 783409692852772900,
+      "in_reply_to_status_id_str": "783409692852772864",
+      "in_reply_to_user_id": 17965730,
+      "in_reply_to_user_id_str": "17965730",
+      "in_reply_to_screen_name": "beesman",
+      "user": {
+        "id": 50339173,
+        "id_str": "50339173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, The Netherlands",
+        "country_code": "NL",
+        "country": "The Netherlands",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7288999,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.4312289
+              ],
+              [
+                4.7288999,
+                52.4312289
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Oct 04 21:42:07 +0000 2016",
+      "id": 783421967592464400,
+      "id_str": "783421967592464385",
+      "text": "@beesman @operatino Maybe this is a better response? https://t.co/g7DYbPgkEm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beesman",
+            "name": "Dan Jackson",
+            "id": 17965730,
+            "id_str": "17965730",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              9,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/g7DYbPgkEm",
+            "expanded_url": "https://medium.com/@kitze/how-it-actually-feels-to-write-javascript-in-2016-46b5dda17bb5#.adg62nxt5",
+            "display_url": "medium.com/@kitze/how-it-…",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 783409692852772900,
+      "in_reply_to_status_id_str": "783409692852772864",
+      "in_reply_to_user_id": 17965730,
+      "in_reply_to_user_id_str": "17965730",
+      "in_reply_to_screen_name": "beesman",
+      "user": {
+        "id": 50339173,
+        "id_str": "50339173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, The Netherlands",
+        "country_code": "NL",
+        "country": "The Netherlands",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7288999,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.4312289
+              ],
+              [
+                4.7288999,
+                52.4312289
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 06:07:03 +0000 2016",
+      "id": 783549038218113000,
+      "id_str": "783549038218113025",
+      "text": "@operatino @nikgraf @thekitze they are? https://t.co/GCQCiheOtx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "nikgraf",
+            "name": "Nik Graf",
+            "id": 75332107,
+            "id_str": "75332107",
+            "indices": [
+              11,
+              19
+            ]
+          },
+          {
+            "screen_name": "thekitze",
+            "name": "kitze.io",
+            "id": 50339173,
+            "id_str": "50339173",
+            "indices": [
+              20,
+              29
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 783549028470521900,
+            "id_str": "783549028470521860",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ct-5sKIWgAQHzGO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ct-5sKIWgAQHzGO.jpg",
+            "url": "https://t.co/GCQCiheOtx",
+            "display_url": "pic.twitter.com/GCQCiheOtx",
+            "expanded_url": "https://twitter.com/reactnlconf/status/783549038218113025/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 783549028470521900,
+            "id_str": "783549028470521860",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ct-5sKIWgAQHzGO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ct-5sKIWgAQHzGO.jpg",
+            "url": "https://t.co/GCQCiheOtx",
+            "display_url": "pic.twitter.com/GCQCiheOtx",
+            "expanded_url": "https://twitter.com/reactnlconf/status/783549038218113025/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 783538978918203400,
+      "in_reply_to_status_id_str": "783538978918203393",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 724975028459151400,
+        "id_str": "724975028459151365"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Oct 05 11:38:11 +0000 2016",
+      "id": 783632371522342900,
+      "id_str": "783632371522342912",
+      "text": "@operatino @dan_abramov +1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "dan_abramov",
+            "name": "Dan Abramov",
+            "id": 70345946,
+            "id_str": "70345946",
+            "indices": [
+              11,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 783621032431222800,
+      "in_reply_to_status_id_str": "783621032431222784",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 16080060,
+        "id_str": "16080060"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Oct 05 11:45:27 +0000 2016",
+      "id": 783634199840448500,
+      "id_str": "783634199840448513",
+      "text": "@operatino haha yes)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 783621304100552700,
+      "in_reply_to_status_id_str": "783621304100552704",
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 69033784,
+        "id_str": "69033784"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "tl"
+    },
+    {
+      "created_at": "Thu Oct 06 17:06:55 +0000 2016",
+      "id": 784077487974350800,
+      "id_str": "784077487974350848",
+      "text": "@operatino hi! checking out @SourceJS with my team... loving what we see so far :) mind if I DM you some questions?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "SourceJS",
+            "name": "Source",
+            "id": 1383798391,
+            "id_str": "1383798391",
+            "indices": [
+              28,
+              37
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 89017350,
+      "in_reply_to_user_id_str": "89017350",
+      "in_reply_to_screen_name": "operatino",
+      "user": {
+        "id": 45288614,
+        "id_str": "45288614"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Oct 06 17:12:56 +0000 2016",
+      "id": 784079003460272100,
+      "id_str": "784079003460272128",
+      "text": "@silviatc @operatino Sure, but it's better if you ask then in our public chat https://t.co/1cSSU0vuDt. Cheers",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "silviatc",
+            "name": "Silvia Tueros-Cossio",
+            "id": 45288614,
+            "id_str": "45288614",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              10,
+              20
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1cSSU0vuDt",
+            "expanded_url": "http://gitter.im/sourcejs/source",
+            "display_url": "gitter.im/sourcejs/source",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 784077487974350800,
+      "in_reply_to_status_id_str": "784077487974350848",
+      "in_reply_to_user_id": 45288614,
+      "in_reply_to_user_id_str": "45288614",
+      "in_reply_to_screen_name": "silviatc",
+      "user": {
+        "id": 1383798391,
+        "id_str": "1383798391"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Oct 06 19:58:22 +0000 2016",
+      "id": 784120637161869300,
+      "id_str": "784120637161869313",
+      "text": "@SourceJS @operatino will do :) thanks!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SourceJS",
+            "name": "Source",
+            "id": 1383798391,
+            "id_str": "1383798391",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              10,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 784079003460272100,
+      "in_reply_to_status_id_str": "784079003460272128",
+      "in_reply_to_user_id": 1383798391,
+      "in_reply_to_user_id_str": "1383798391",
+      "in_reply_to_screen_name": "SourceJS",
+      "user": {
+        "id": 45288614,
+        "id_str": "45288614"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ]
 }
