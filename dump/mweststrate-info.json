@@ -37,38 +37,39 @@
     }
   },
   "protected": false,
-  "followers_count": 200,
-  "friends_count": 7,
-  "listed_count": 32,
+  "followers_count": 216,
+  "friends_count": 9,
+  "listed_count": 35,
   "created_at": "Tue Jun 21 11:51:48 +0000 2016",
-  "favourites_count": 42,
+  "favourites_count": 67,
   "utc_offset": 7200,
   "time_zone": "Amsterdam",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 479,
+  "statuses_count": 518,
   "lang": "en",
   "status": {
-    "created_at": "Mon Oct 10 10:52:32 +0000 2016",
-    "id": 785432822215544800,
-    "id_str": "785432822215544832",
-    "text": "We run (component) unit tests with enzyme in electron, (to have a reliable DOM), and on top of that selenium tests… https://t.co/IXwhMOdwIK",
-    "truncated": true,
+    "created_at": "Mon Oct 17 06:32:54 +0000 2016",
+    "id": 787904201259089900,
+    "id_str": "787904201259089920",
+    "text": "Hi all! Thanks for listening :) It is now time for the next author. If you want to follow me: @mweststrate: MobX, Mendix, TypeScript, etc",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/IXwhMOdwIK",
-          "expanded_url": "https://twitter.com/i/web/status/785432822215544832",
-          "display_url": "twitter.com/i/web/status/7…",
+          "screen_name": "mweststrate",
+          "name": "Michel Weststrate",
+          "id": 37636440,
+          "id_str": "37636440",
           "indices": [
-            116,
-            139
+            94,
+            106
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -80,14 +81,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 785429535865069600,
-    "quoted_status_id_str": "785429535865069568",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "en"
   },
   "contributors_enabled": false,
