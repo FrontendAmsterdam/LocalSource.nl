@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LocalSourceNL Home]]></title>
+        <description><![CDATA[Shared twitter account with a new author each week for NL based developers and IT community activists.]]></description>
+        <link>http://localsource.nl/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 08 Nov 2016 15:34:38 GMT</lastBuildDate>
+        <atom:link href="http://localsource.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[MIT]]></copyright>
+        <language><![CDATA[en]]></language>
+        <managingEditor><![CDATA[r@rhr.me (Robert Haritonov)]]></managingEditor>
+        <webMaster><![CDATA[r@rhr.me (Robert Haritonov)]]></webMaster>
+        <category><![CDATA[twitter]]></category>
+        <item>
+            <title><![CDATA[mweststrate]]></title>
+            <description><![CDATA[<p>Hi all, my name is Michel Weststrate (<a href="https://twitter.com/mweststrate" title="Michel Weststrate">@mweststrate</a>). You might know me from my work on <a href="https://twitter.com/search?q=%23MobX">#MobX</a></p>
+]]></description>
+            <link>http://localsource.nl/mweststrate/</link>
+            <guid isPermaLink="true">http://localsource.nl/mweststrate/</guid>
+            <pubDate>Mon, 10 Oct 2016 10:13:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[_paulverbeek]]></title>
+            <description><![CDATA[<p>Hey everyone! This week, I (<a href="https://twitter.com/_paulverbeek" title="Paul Verbeek">@_paulverbeek</a>) will be taking over this Twitter account!</p>
+]]></description>
+            <link>http://localsource.nl/_paulverbeek/</link>
+            <guid isPermaLink="true">http://localsource.nl/_paulverbeek/</guid>
+            <pubDate>Mon, 03 Oct 2016 07:07:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[watilde]]></title>
+            <description><![CDATA[<p>Hiya! I(<a href="https://twitter.com/watilde" title="dazy">@watilde</a>) will be having this account for this week! Feel free to ask me about the topics will come. Let's have a good week(๑˃̵ᴗ˂̵)و</p>
+]]></description>
+            <link>http://localsource.nl/watilde/</link>
+            <guid isPermaLink="true">http://localsource.nl/watilde/</guid>
+            <pubDate>Mon, 19 Sep 2016 09:09:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[kureevalexey]]></title>
+            <description><![CDATA[<p>Hey guys! I(<a href="https://twitter.com/kureevalexey" title="Alexey Kureev">@kureevalexey</a>) will be authoring this account for the next week. Feel free to ask me any questions. Let's have a fun time 🎮</p>
+]]></description>
+            <link>http://localsource.nl/kureevalexey/</link>
+            <guid isPermaLink="true">http://localsource.nl/kureevalexey/</guid>
+            <pubDate>Mon, 12 Sep 2016 07:17:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[stefanomasini]]></title>
+            <description><![CDATA[<p>Thanks <a href="https://twitter.com/NorbertdeLangen" title="Norbert de Langen">@NorbertdeLangen</a> and <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a> for passing over the mic. :) I hope you'll enjoy my posts, I try to keep them useful/interesting.</p>
+]]></description>
+            <link>http://localsource.nl/stefanomasini/</link>
+            <guid isPermaLink="true">http://localsource.nl/stefanomasini/</guid>
+            <pubDate>Mon, 05 Sep 2016 07:22:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[norbertdelangen]]></title>
+            <description><![CDATA[<p>Hello everyone! My name is Norbert <a href="https://twitter.com/NorbertdeLangen" title="Norbert de Langen">@NorbertdeLangen</a> and I'll be sharing JS related topics this week. Exited to be here!</p>
+]]></description>
+            <link>http://localsource.nl/norbertdelangen/</link>
+            <guid isPermaLink="true">http://localsource.nl/norbertdelangen/</guid>
+            <pubDate>Mon, 29 Aug 2016 07:52:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ramonvictor]]></title>
+            <description><![CDATA[<p>Hi there, my name is <a href="https://twitter.com/ramonvictor" title="ramonvictor">@ramonvictor</a>, I'm a Front-End Dev @ <a href="https://twitter.com/bookingcom" title="Booking.com">@bookingcom</a>. I'm Brazilian and I work with web since 2008.  I'm excited to be here!</p>
+]]></description>
+            <link>http://localsource.nl/ramonvictor/</link>
+            <guid isPermaLink="true">http://localsource.nl/ramonvictor/</guid>
+            <pubDate>Mon, 22 Aug 2016 11:35:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[operatino]]></title>
+            <description><![CDATA[<p>Morning everyone! I'm Robert <a href="https://twitter.com/operatino" title="Robert Haritonov">@operatino</a>, and I'll be your host for this week's shared Twitter account for NL based developers and IT people.</p>
+]]></description>
+            <link>http://localsource.nl/operatino/</link>
+            <guid isPermaLink="true">http://localsource.nl/operatino/</guid>
+            <pubDate>Mon, 15 Aug 2016 07:06:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
