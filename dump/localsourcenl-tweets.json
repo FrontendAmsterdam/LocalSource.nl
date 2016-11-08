@@ -1,0 +1,59 @@
+{
+  "tweets": [
+    {
+      "created_at": "Tue Nov 08 14:54:58 +0000 2016",
+      "id": 796003083084038100,
+      "id_str": "796003083084038149",
+      "text": "We're looking for new shared account authors, if you're willing to participate, please PM @operatino. Details here https://t.co/WpDw8kZG5p.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "operatino",
+            "name": "Robert Haritonov",
+            "id": 89017350,
+            "id_str": "89017350",
+            "indices": [
+              90,
+              100
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/WpDw8kZG5p",
+            "expanded_url": "http://localsource.nl/authoring/",
+            "display_url": "localsource.nl/authoring/",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745222684804583400,
+        "id_str": "745222684804583424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ]
+}
