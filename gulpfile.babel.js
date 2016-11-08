@@ -138,7 +138,7 @@ task('authors', ['css'], done => {
       .pipe(jade({
         pretty: true,
         locals: {
-          title: `Неделя @${author.username} в @${underhood.underhood}`,
+          title: `@${author.username}'s week with @${underhood.underhood}`,
           author, underhood,
           helpers: { authorRender, bust },
         },
