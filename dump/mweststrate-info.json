@@ -16,7 +16,7 @@
     "bounding_box": null,
     "attributes": {}
   },
-  "description": "Shared Twitter account for NL based devs with a new author every week. This week's host - @mweststrate. Looking for authors, check project website to apply ⬇️",
+  "description": "Shared Twitter account for NL based devs with a new author every week. Currently on pause, looking for authors, check project website to apply ⬇️",
   "url": "https://t.co/DJXWfW9OSP",
   "entities": {
     "url": {
@@ -37,41 +37,61 @@
     }
   },
   "protected": false,
-  "followers_count": 216,
+  "followers_count": 232,
   "friends_count": 9,
-  "listed_count": 35,
+  "listed_count": 37,
   "created_at": "Tue Jun 21 11:51:48 +0000 2016",
-  "favourites_count": 67,
-  "utc_offset": 7200,
+  "favourites_count": 72,
+  "utc_offset": 3600,
   "time_zone": "Amsterdam",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 518,
+  "statuses_count": 523,
   "lang": "en",
   "status": {
-    "created_at": "Mon Oct 17 06:32:54 +0000 2016",
-    "id": 787904201259089900,
-    "id_str": "787904201259089920",
-    "text": "Hi all! Thanks for listening :) It is now time for the next author. If you want to follow me: @mweststrate: MobX, Mendix, TypeScript, etc",
+    "created_at": "Mon Nov 07 14:32:57 +0000 2016",
+    "id": 795635152642838500,
+    "id_str": "795635152642838528",
+    "text": "RT @ReactAmsterdam: Supporting large scale React apps https://t.co/MYP4PgS8OS by @MauriceDB",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "mweststrate",
-          "name": "Michel Weststrate",
-          "id": 37636440,
-          "id_str": "37636440",
+          "screen_name": "ReactAmsterdam",
+          "name": "React.Amsterdam",
+          "id": 3023155108,
+          "id_str": "3023155108",
           "indices": [
-            94,
-            106
+            3,
+            18
+          ]
+        },
+        {
+          "screen_name": "MauriceDB",
+          "name": "Maurice",
+          "id": 18555733,
+          "id_str": "18555733",
+          "indices": [
+            81,
+            91
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/MYP4PgS8OS",
+          "expanded_url": "https://www.youtube.com/watch?v=_4xTt9oUwvQ",
+          "display_url": "youtube.com/watch?v=_4xTt9…",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -81,11 +101,63 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Nov 07 14:32:43 +0000 2016",
+      "id": 795635097051471900,
+      "id_str": "795635097051471872",
+      "text": "Supporting large scale React apps https://t.co/MYP4PgS8OS by @MauriceDB",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MauriceDB",
+            "name": "Maurice",
+            "id": 18555733,
+            "id_str": "18555733",
+            "indices": [
+              61,
+              71
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/MYP4PgS8OS",
+            "expanded_url": "https://www.youtube.com/watch?v=_4xTt9oUwvQ",
+            "display_url": "youtube.com/watch?v=_4xTt9…",
+            "indices": [
+              34,
+              57
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 795634993183789000,
+      "in_reply_to_status_id_str": "795634993183789056",
+      "in_reply_to_user_id": 3023155108,
+      "in_reply_to_user_id_str": "3023155108",
+      "in_reply_to_screen_name": "ReactAmsterdam",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweet_count": 7,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
     "lang": "en"
   },
   "contributors_enabled": false,
@@ -95,10 +167,10 @@
   "profile_background_image_url": null,
   "profile_background_image_url_https": null,
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/785419587907096577/I8Rp4xWj_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/785419587907096577/I8Rp4xWj_normal.jpg",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/789034247411625984/vw73XB7Q_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/789034247411625984/vw73XB7Q_normal.jpg",
   "profile_banner_url": "https://pbs.twimg.com/profile_banners/745222684804583424/1472412521",
-  "profile_link_color": "2B7BB9",
+  "profile_link_color": "1DA1F2",
   "profile_sidebar_border_color": "C0DEED",
   "profile_sidebar_fill_color": "DDEEF6",
   "profile_text_color": "333333",
